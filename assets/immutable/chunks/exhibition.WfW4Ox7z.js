@@ -107,8 +107,8 @@ import{s as B,c as P}from"./scheduler.WyyjKgw5.js";import{S as R,i as C,m as D,s
 				집합체로 변모시킬 향과 냄새가 한국관을 관통하며 변주한다.`),o=u("br"),n=_(),a=u("br"),r=v(`
 				2023년 여름, 구정아는 한반도의 향기 초상을 그리려 «오도라마 시티»를
 				위한 ‘향기 메모리’를 수집했다. 한국관 전시 팀은 SNS와 광고, 언론
-				보도와 개인적인 면담 등을 통해 남한과 북한 사람 및 비한국인 - 곧
-				한반도와 연이 있는 모두 - 에게 ‘한국(코리아)의 도시, 고향에 얽힌
+				보도와 개인적인 면담 등을 통해 남한과 북한 사람 및 비한국인 – 곧
+				한반도와 연이 있는 모두 – 에게 ‘한국(코리아)의 도시, 고향에 얽힌
 				향의 기억’에 대해 물었다. 이 오픈 콜을 통해 600편이 넘는 글이 모였고,
 				조향사들은 사연과 주제어를 바탕으로 한국관에 16개의 상이한 냄새 경험을
 				조성해 줄 향들과 하나의 상업 향수를 만들었다.`)},l(t){i=w(t,`향의 본질을 탐구하고 분자를 들이쉬고 내쉬는 과정에 대한 작가의
@@ -120,8 +120,8 @@ import{s as B,c as P}from"./scheduler.WyyjKgw5.js";import{S as R,i as C,m as D,s
 				집합체로 변모시킬 향과 냄새가 한국관을 관통하며 변주한다.`),o=f(t,"BR",{}),n=O(t),a=f(t,"BR",{}),r=w(t,`
 				2023년 여름, 구정아는 한반도의 향기 초상을 그리려 «오도라마 시티»를
 				위한 ‘향기 메모리’를 수집했다. 한국관 전시 팀은 SNS와 광고, 언론
-				보도와 개인적인 면담 등을 통해 남한과 북한 사람 및 비한국인 - 곧
-				한반도와 연이 있는 모두 - 에게 ‘한국(코리아)의 도시, 고향에 얽힌
+				보도와 개인적인 면담 등을 통해 남한과 북한 사람 및 비한국인 – 곧
+				한반도와 연이 있는 모두 – 에게 ‘한국(코리아)의 도시, 고향에 얽힌
 				향의 기억’에 대해 물었다. 이 오픈 콜을 통해 600편이 넘는 글이 모였고,
 				조향사들은 사연과 주제어를 바탕으로 한국관에 16개의 상이한 냄새 경험을
 				조성해 줄 향들과 하나의 상업 향수를 만들었다.`)},m(t,c){l(t,i,c),l(t,o,c),l(t,n,c),l(t,a,c),l(t,r,c)},d(t){t&&(s(i),s(o),s(n),s(a),s(r))}}}function H(p){let i,o,n,a,r,t,c,m;i=new G({props:{title:"Exhibition"}});function e(h,b){return h[0]==="ko"?j:M}let d=e(p),y=d(p);function I(h,b){return h[0]==="ko"?F:L}let k=I(p),g=k(p);return{c(){D(i.$$.fragment),o=_(),n=u("div"),a=u("div"),r=u("div"),y.c(),t=_(),c=u("div"),g.c(),this.h()},l(h){N(i.$$.fragment,h),o=O(h),n=f(h,"DIV",{class:!0,"data-lang":!0});var b=x(n);a=f(b,"DIV",{class:!0});var K=x(a);r=f(K,"DIV",{});var S=x(r);y.l(S),S.forEach(s),t=O(K),c=f(K,"DIV",{});var $=x(c);g.l($),$.forEach(s),K.forEach(s),b.forEach(s),this.h()},h(){T(a,"class","grid-2cols"),T(n,"class","container"),T(n,"data-lang",p[0])},m(h,b){z(i,h,b),l(h,o,b),l(h,n,b),E(n,a),E(a,r),y.m(r,null),E(a,t),E(a,c),g.m(c,null),m=!0},p(h,[b]){d!==(d=e(h))&&(y.d(1),y=d(h),y&&(y.c(),y.m(r,null))),k!==(k=I(h))&&(g.d(1),g=k(h),g&&(g.c(),g.m(c,null))),(!m||b&1)&&T(n,"data-lang",h[0])},i(h){m||(V(i.$$.fragment,h),m=!0)},o(h){W(i.$$.fragment,h),m=!1},d(h){h&&(s(o),s(n)),q(i,h),y.d(),g.d()}}}function Q(p,i,o){let n;return P(p,J,a=>o(0,n=a)),[n]}class tt extends R{constructor(i){super(),C(this,i,Q,H,B,{})}}export{tt as E};
