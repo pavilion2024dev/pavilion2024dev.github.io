@@ -1,0 +1,1 @@
+import{b as p,a as r}from"../chunks/D5T7nYzr.js";import"../chunks/CxDUGqHY.js";import{t as m,o as i}from"../chunks/BY2d0Maq.js";import{s as n}from"../chunks/CM22IY6Q.js";import{s as f,a as $}from"../chunks/tOY9biQ7.js";import{p as c}from"../chunks/DXAqiTuI.js";function b(e){const[o,s]=f(),a=()=>$(c,"$pageTitle",o);i();var t=p();m(()=>n(t,a())),r(e,t),s()}export{b as component};
