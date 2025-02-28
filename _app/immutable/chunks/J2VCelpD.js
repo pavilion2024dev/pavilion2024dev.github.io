@@ -1,1 +1,0 @@
-import{l as e}from"./BtaWbt3H.js";const a=l=>`Hello, ${l.name}!`,n=()=>"Hello",r=l=>`안녕하세요, ${l.name}!`,s=()=>"안녕하세요",g=(l,o={})=>({en:a,ko:r})[o.languageTag??e()](l),h=(l={},o={})=>({en:n,ko:s})[o.languageTag??e()]();export{g as a,h};
