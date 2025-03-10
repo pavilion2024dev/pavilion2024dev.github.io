@@ -1,0 +1,1 @@
+ul.svelte-1swddwp{--cols: 4;display:grid;grid-template-columns:repeat(var(--cols),minmax(0,1fr));grid-column-gap:1.0625rem;grid-row-gap:1.25rem;background-color:var(--background-color)}@media (max-width: 767px){ul.svelte-1swddwp{--cols: 2}}ul.svelte-1swddwp li:where(.svelte-1swddwp) img:where(.svelte-1swddwp){display:block}
