@@ -1,0 +1,1 @@
+import"../chunks/CWj6FrbW.js";import"../chunks/69_IOA4Y.js";import{t,a as i}from"../chunks/CvkGLoL0.js";var n=t('<div class="container -inner-padding">Home</div>');function m(a){var o=n();i(a,o)}export{m as component};
