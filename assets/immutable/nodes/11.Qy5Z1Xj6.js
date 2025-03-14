@@ -1,0 +1,21 @@
+import"../chunks/CWj6FrbW.js";import"../chunks/69_IOA4Y.js";import{I as Y,V as q}from"../chunks/CVKl-735.js";import{f as P,c as s,r,s as p,a9 as V}from"../chunks/B0AdQyPJ.js";import{t as h,a as t,b as i}from"../chunks/DGcdMttv.js";import{i as m,a as L,s as R,l as $}from"../chunks/CaWsOuxX.js";var Z=h("Kim Hyunjong, <em>New Voyage</em>",1),E=h(`Kim Hyunjong's <em>New Voyage</em> is installed on the rooftop, a
+			unique yet often overlooked space of the Korean Pavilion. In the
+			national pavilions of the Giardini, access to rooftop spaces is
+			typically restricted or impossible. <em>New Voyage</em> revitalizes the Korean Pavilion’s rooftop, originally conceived as an
+			exhibition space, while urging unknown future possibilities. Instead
+			of looking inward toward the Giardini, <em>New Voyage</em> is oriented outward, facing the Adriatic Sea. This positioning draws
+			inspiration from the pavilion’s architectural form, which resembles a
+			ship with its sails set toward the horizon. By reopening the space to
+			visitors in tandem with the installation, the rooftop transforms itself
+			into a space of hospitality, an observatory for all. <em>New Voyage</em> invites visitors to reconsider the pavilions’ relationship
+			with their shared natural elements—the sky and the sea—that transcend
+			national boundaries and connect the pavilions of the Giardini.`,1),O=h('<div class="p-group"><div class="heading-style"><!></div> <div class="body-style"><!></div></div> <div class="spec"><dl><dd><!></dd></dl></div>',1);function Q(g){const[u,x]=R(),v=()=>L($,"$lang",u);var n=O(),c=P(n),f=s(c),b=s(f);{var k=o=>{var l=i("김현종, 〈새로운 항해〉");t(o,l)},j=o=>{var l=Z();V(),t(o,l)};m(b,o=>{v()==="ko"?o(k):o(j,!1)})}r(f);var d=p(f,2),_=s(d);{var H=o=>{var l=i(`김현종의 〈새로운 항해〉는 한국관만의 특별한 장소라 할 수 있는
+			옥상에 설치되어 있다. 다른 국가관의 경우 한국관과 달리 옥상에 접근이
+			매우 어렵거나 제한적이다. 그의 작업은 건립 당시 전시장으로 구상된
+			영역을 재활성화하면서 미래를 향한 미지의 가능성을 촉구한다. 이
+			작업은 국가관 영토 각충장인 자르디니 공원 안이 아니라 그 반대편인
+			아드리아해 쪽을 바라보며 설치되어 있다. 이 작업은 조형적으로 바다를
+			향해 돛을 편 듯한 한국관의 모습에서 착안했다. 전시 기간 동안 개방한
+			옥상은 모두의 전망대가 되는 환대의 공간으로 작동한다. 이 작업은
+			한국관의 옥상 공간을 통해 베니스비엔날레 국가관들이 공유하는 하늘과
+			바다와 같은 자원을 보게 만든다.`);t(o,l)},K=o=>{var l=E();V(8),t(o,l)};m(_,o=>{v()==="ko"?o(H):o(K,!1)})}r(d),r(c);var w=p(c,2),y=s(w),I=s(y),U=s(I);{var C=o=>{var l=i("스테인리스 스틸, 패브릭, 980x440x190cm, 2024");t(o,l)},N=o=>{var l=i("Stainless steel and fabric, 980 x 440 x 190cm, 2024");t(o,l)};m(U,o=>{v()==="ko"?o(C):o(N,!1)})}r(I),r(y),r(w),t(g,n),x()}var W=h("강문희<br> 최도건<br> 전희원",1),X=h("Kang Munhee<br> Choi Doegun<br> Jeon Heewon",1),aa=h("<section><dl><dt><!></dt> <dd><!></dd></dl> <dl><dt><!></dt> <dd><!></dd></dl> <dl><dt><!></dt> <dd><!></dd></dl></section>");function ea(g){const[u,x]=R(),v=()=>L($,"$lang",u);var n=aa(),c=s(n),f=s(c),b=s(f);{var k=a=>{var e=i("프로젝트 어시스턴트");t(a,e)},j=a=>{var e=i("Project Assistant");t(a,e)};m(b,a=>{v()==="ko"?a(k):a(j,!1)})}r(f);var d=p(f,2),_=s(d);{var H=a=>{var e=W();V(4),t(a,e)},K=a=>{var e=X();V(4),t(a,e)};m(_,a=>{v()==="ko"?a(H):a(K,!1)})}r(d),r(c);var w=p(c,2),y=s(w),I=s(y);{var U=a=>{var e=i("금속 작업 및 설치");t(a,e)},C=a=>{var e=i("Metalwork and Installation");t(a,e)};m(I,a=>{v()==="ko"?a(U):a(C,!1)})}r(y);var N=p(y,2),o=s(N);{var l=a=>{var e=i("이뉴어");t(a,e)},S=a=>{var e=i("Injuer");t(a,e)};m(o,a=>{v()==="ko"?a(l):a(S,!1)})}r(N),r(w);var z=p(w,2),G=s(z),A=s(G);{var B=a=>{var e=i("패브릭 후원");t(a,e)},D=a=>{var e=i("Fabric Sponsored by");t(a,e)};m(A,a=>{v()==="ko"?a(B):a(D,!1)})}r(G);var M=p(G,2),F=s(M);{var J=a=>{var e=i("헬리녹스");t(a,e)},T=a=>{var e=i("Helinox");t(a,e)};m(F,a=>{v()==="ko"?a(J):a(T,!1)})}r(M),r(z),r(n),t(g,n),x()}const ta=""+new URL("../assets/1.CzmHfmmN.jpg",import.meta.url).href,oa=""+new URL("../assets/2.BIUJcas0.jpg",import.meta.url).href,sa=""+new URL("../assets/3.DFTy2NvZ.jpg",import.meta.url).href,ra=""+new URL("../assets/4.CYYt3MaG.jpg",import.meta.url).href;var ia=h('<!> <div class="caption-style -padded">&copy; <!></div>',1);function na(g){const[u,x]=R(),v=()=>L($,"$lang",u);var n=ia(),c=P(n);Y(c,{srcs:[ta,oa,sa,ra]});var f=p(c,2),b=p(s(f));{var k=d=>{var _=i("김현종");t(d,_)},j=d=>{var _=i("Kim Hyunjong");t(d,_)};m(b,d=>{v()==="ko"?d(k):d(j,!1)})}r(f),t(g,n),x()}function pa(g){q(g,{info:n=>{Q(n)},credits:n=>{ea(n)},images:n=>{na(n)}})}export{pa as component};
