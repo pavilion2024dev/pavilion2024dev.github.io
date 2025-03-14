@@ -1,4 +1,4 @@
-import"../chunks/CWj6FrbW.js";import"../chunks/69_IOA4Y.js";import{p as B,t as D,a as L,s as w,c as a,e as j,r,a9 as S,f as O}from"../chunks/COr17J6F.js";import{t as c,a as i,b as K}from"../chunks/CsBcvvG3.js";import{i as _,s as T,a as k,l as P}from"../chunks/TBTHBm_W.js";import{s as R}from"../chunks/DiHnmsfh.js";import{i as U}from"../chunks/B366rvC2.js";import{s as I}from"../chunks/D3AQj0IL.js";const Y=""+new URL("../assets/curators.Cej32Rv_.jpg",import.meta.url).href;var F=c(`<strong>씨에이씨</strong>글과 사물, 공간에 담긴 건축적
+import"../chunks/CWj6FrbW.js";import"../chunks/69_IOA4Y.js";import{p as B,t as D,a as L,s as w,c as a,e as j,r,a9 as S,f as O}from"../chunks/COr17J6F.js";import{t as c,a as i,b as K}from"../chunks/CsBcvvG3.js";import{i as _,s as T,a as k,l as P}from"../chunks/2BWg1Kd6.js";import{s as R}from"../chunks/DiHnmsfh.js";import{i as U}from"../chunks/B366rvC2.js";import{s as I}from"../chunks/D_RJmtKd.js";const Y=""+new URL("../assets/curators.Cej32Rv_.jpg",import.meta.url).href;var F=c(`<strong>씨에이씨</strong>글과 사물, 공간에 담긴 건축적
 						형식을 탐구하는 기획집단이다. 정다영, 김희정, 정성규 세
 						명의 건축 큐레이터가 설립했으며, 다양한 예술 실천의
 						현장에서 일하는 큐레이터 콜렉티브를 지향한다. 《어셈블리
