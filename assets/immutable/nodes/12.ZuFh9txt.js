@@ -1,4 +1,4 @@
-import"../chunks/CWj6FrbW.js";import"../chunks/69_IOA4Y.js";import{I as ka,V as wa}from"../chunks/CVKl-735.js";import{f as Q,c as o,r as i,s as v,a9 as J}from"../chunks/B0AdQyPJ.js";import{t as b,a as r,b as s}from"../chunks/DGcdMttv.js";import{i as l,a as X,s as Z,l as $}from"../chunks/CaWsOuxX.js";var ya=b("Lee Dammy, <em>Overwriting, Overriding</em>",1),Da=b(`Lee Dammy’s installation, which begins at the entrance of the Korean
+import"../chunks/CWj6FrbW.js";import"../chunks/69_IOA4Y.js";import{I as ka,V as wa}from"../chunks/BXUPGh-a.js";import{f as Q,c as o,r as i,s as v,a9 as J}from"../chunks/B0AdQyPJ.js";import{t as b,a as r,b as s}from"../chunks/DGcdMttv.js";import{i as l,a as X,s as Z,l as $}from"../chunks/C-8CC3tM.js";var ya=b("Lee Dammy, <em>Overwriting, Overriding</em>",1),Da=b(`Lee Dammy’s installation, which begins at the entrance of the Korean
 			Pavilion, holds symbolic significance as a loop that circulates the
 			beginning and end of <em>Little Toad, Little Toad</em>. <em>Overwriting, Overriding</em> brings forth the hidden entities that have silently coexisted with the
 			pavilion, offering an opportunity to reflect on its history. Among the

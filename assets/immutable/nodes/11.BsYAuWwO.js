@@ -1,4 +1,4 @@
-import"../chunks/CWj6FrbW.js";import"../chunks/69_IOA4Y.js";import{I as Y,V as q}from"../chunks/CVKl-735.js";import{f as P,c as s,r,s as p,a9 as V}from"../chunks/B0AdQyPJ.js";import{t as h,a as t,b as i}from"../chunks/DGcdMttv.js";import{i as m,a as L,s as R,l as $}from"../chunks/CaWsOuxX.js";var Z=h("Kim Hyunjong, <em>New Voyage</em>",1),E=h(`Kim Hyunjong's <em>New Voyage</em> is installed on the rooftop, a
+import"../chunks/CWj6FrbW.js";import"../chunks/69_IOA4Y.js";import{I as Y,V as q}from"../chunks/BXUPGh-a.js";import{f as P,c as s,r,s as p,a9 as V}from"../chunks/B0AdQyPJ.js";import{t as h,a as t,b as i}from"../chunks/DGcdMttv.js";import{i as m,a as L,s as R,l as $}from"../chunks/C-8CC3tM.js";var Z=h("Kim Hyunjong, <em>New Voyage</em>",1),E=h(`Kim Hyunjong's <em>New Voyage</em> is installed on the rooftop, a
 			unique yet often overlooked space of the Korean Pavilion. In the
 			national pavilions of the Giardini, access to rooftop spaces is
 			typically restricted or impossible. <em>New Voyage</em> revitalizes the Korean Pavilion’s rooftop, originally conceived as an

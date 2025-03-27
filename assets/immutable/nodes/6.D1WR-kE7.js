@@ -1,4 +1,4 @@
-import"../chunks/CWj6FrbW.js";import"../chunks/69_IOA4Y.js";import{p as B,t as D,a as L,s as w,c as a,o as j,r,a9 as S,f as O}from"../chunks/B0AdQyPJ.js";import{t as c,a as i,b as K}from"../chunks/DGcdMttv.js";import{i as _,s as T,a as k,l as P}from"../chunks/CaWsOuxX.js";import{s as R}from"../chunks/BxS1i2Pf.js";import{i as U}from"../chunks/BrH1v7nr.js";import{s as I}from"../chunks/3H5rmUh3.js";const Y=""+new URL("../assets/curators.Cej32Rv_.jpg",import.meta.url).href;var F=c(`<strong>씨에이씨</strong>글과 사물, 공간에 담긴 건축적
+import"../chunks/CWj6FrbW.js";import"../chunks/69_IOA4Y.js";import{p as I,t as T,a as E,s as H,c as a,o as P,r,a9 as $,f as L}from"../chunks/B0AdQyPJ.js";import{t as d,a as o,b as U}from"../chunks/DGcdMttv.js";import{i as D,s as j,a as x,l as R}from"../chunks/C-8CC3tM.js";import{s as A}from"../chunks/BxS1i2Pf.js";import{i as F}from"../chunks/BrH1v7nr.js";import{s as N}from"../chunks/DO7QyMTj.js";import{g as O}from"../chunks/CtL_OyRt.js";const Y=""+new URL("../assets/curators.Cej32Rv_.jpg",import.meta.url).href;var G=d(`<strong>씨에이씨</strong>글과 사물, 공간에 담긴 건축적
 						형식을 탐구하는 기획집단이다. 정다영, 김희정, 정성규 세
 						명의 건축 큐레이터가 설립했으며, 다양한 예술 실천의
 						현장에서 일하는 큐레이터 콜렉티브를 지향한다. 《어셈블리
@@ -8,7 +8,7 @@ import"../chunks/CWj6FrbW.js";import"../chunks/69_IOA4Y.js";import{p as B,t as D
 						포럼과 워크숍 등의 큐레토리얼 활동을 해오고 있다. CAC는
 						《두껍아 두껍아》 전시의 주제이기도 한 ‘건축의 삶’을
 						지속적으로 탐구하며 이와 관련된 작업들을 국내외 작가들과
-						협업하며 선보일 예정이다.`,1),G=c(`<strong>Curating Architecture Collective (CAC)</strong> is a curatorial group dedicated to exploring the intersections
+						협업하며 선보일 예정이다.`,1),J=d(`<strong>Curating Architecture Collective (CAC)</strong> is a curatorial group dedicated to exploring the intersections
 						of architecture, text, objects, and space. Founded by Chung
 						Dahyoung, Kim Heejung, and Jung Sungkyu, CAC operates as
 						a collaborative curatorial platform engaging in diverse artistic
@@ -22,87 +22,90 @@ import"../chunks/CWj6FrbW.js";import"../chunks/69_IOA4Y.js";import{p as B,t as D
 						into the "life of architecture," a central theme of <em>Little Toad, Little Toad: Unbuilding Pavilion</em>,
 						CAC is committed to expanding its curatorial vision
 						through interdisciplinary projects that challenge
-						conventional perceptions of built environments.`,1),J=c('<main class="row -border-bottom -inner-padding"><div class="container"><header><div class="heading-style"><!></div></header> <main class="narrow-gap"><section><img alt="Artistic Director"></section> <section><div class="body-style"><!></div></section></main></div></main>');function V(b,v){B(v,!1);const[l,d]=T(),u=()=>k(P,"$lang",l),A=()=>k(I,"$src",l);U();var n=J(),o=a(n),y=a(o),h=a(y),m=a(h);{var C=g=>{var t=K("예술감독");i(g,t)},f=g=>{var t=K("Curators");i(g,t)};_(m,g=>{u()==="ko"?g(C):g(f,!1)})}r(h),r(y);var p=w(y,2),e=a(p),s=a(e);r(e);var x=w(e,2),M=a(x),$=a(M);{var E=g=>{var t=F();S(),i(g,t)},N=g=>{var t=G();S(9),i(g,t)};_($,g=>{u()==="ko"?g(E):g(N,!1)})}r(M),r(x),r(p),r(o),r(n),D(g=>R(s,"src",g),[()=>A()(Y)],j),i(b,n),L(),d()}const z=""+new URL("../assets/1.Cqug7M1J.jpg",import.meta.url).href;var q=c(`<strong>김현종</strong>은 프랑스 파리 École Spéciale
-				d’Architecture와 동 대학원에서 건축을 전공한 후 서울에서
-				아뜰리에케이에이치제이를 운영한다. 건축부터 인테리어, 가구와
-				오브제까지 규모와 장르를 구분하지 않는 태도를 견지하며, 오브제
-				하나를 다루더라도 도시와 사회 문화적 관점에서 새로운 제안이
-				되기를 꿈꾸며 작업한다. 대표 작업으로 프레즌트퍼펙트,
+						conventional perceptions of built environments.`,1),V=d('<main class="row -border-bottom -inner-padding"><div class="container"><header><div class="heading-style"><!></div></header> <main class="narrow-gap"><section><img alt="Artistic Director"></section> <section><div class="body-style"><!></div></section></main></div></main>');function z(k,_){I(_,!1);const[h,p]=j(),g=()=>x(R,"$lang",h),S=()=>x(N,"$src",h);F();var s=V(),y=a(s),l=a(y),B=a(l),m=a(B);{var u=n=>{var e=U("예술감독");o(n,e)},c=n=>{var e=U("Curators");o(n,e)};D(m,n=>{g()==="ko"?n(u):n(c,!1)})}r(B),r(l);var C=H(l,2),v=a(C),b=a(v);r(v);var M=H(v,2),f=a(M),w=a(f);{var t=n=>{var e=G();$(),o(n,e)},i=n=>{var e=J();$(9),o(n,e)};D(w,n=>{g()==="ko"?n(t):n(i,!1)})}r(f),r(M),r(C),r(y),r(s),T(n=>A(b,"src",n),[()=>S()(Y)],P),o(k,s),E(),p()}const q=""+new URL("../assets/1.Cqug7M1J.jpg",import.meta.url).href;var W=d(`<a><strong>김현종</strong></a>은 프랑스 파리 École
+				Spéciale d’Architecture와 동 대학원에서 건축을 전공한 후
+				서울에서 아뜰리에케이에이치제이를 운영한다. 건축부터 인테리어,
+				가구와 오브제까지 규모와 장르를 구분하지 않는 태도를 견지하며,
+				오브제 하나를 다루더라도 도시와 사회 문화적 관점에서 새로운
+				제안이 되기를 꿈꾸며 작업한다. 대표 작업으로 프레즌트퍼펙트,
 				점점점점점점 등이 있다. 《젊은 모색 2023 : 미술관을 위한
 				주석》(MMCA, 2023), 《서울마루공공개입》(서울도시건축전시관,
 				2022), 《바닥, 디디어 오르다》(아름지기 사옥, 2020), 《돈의문이
-				열려있다》(돈의문박물관마을, 2018) 등 다수의 그룹전에 참여했다.`,1),W=c(`<strong>Kim Hyunjong</strong> completed his bachelor’s and
-				master’s degrees in architecture at École Spéciale
-				d’Architecture (ESA) in Paris, France, and founded ATELIER KHJ
-				in Seoul in 2018. He explores cultural values across various
-				fields, including urban culture, architecture, interior design,
-				furniture, and art, breaking boundaries while engaging in
-				continuous research and reinterpretation based on his deep
+				열려있다》(돈의문박물관마을, 2018) 등 다수의 그룹전에 참여했다.`,1),X=d(`<a><strong>Kim Hyunjong</strong></a> completed his
+				bachelor’s and master’s degrees in architecture at École
+				Spéciale d’Architecture (ESA) in Paris, France, and founded
+				ATELIER KHJ in Seoul in 2018. He explores cultural values across
+				various fields, including urban culture, architecture, interior
+				design, furniture, and art, breaking boundaries while engaging
+				in continuous research and reinterpretation based on his deep
 				interest in materials and substances. His representative works
 				include <em>Present Perfect</em> (2021) and <em>Jumjumjumjumjum</em> (2021), and he has participated in
 				numerous group exhibitions, such as <em>Young Korean Artists 2023</em> (MMCA, 2023), <em>Seoul Maru: Public Intervention</em> (Seoul Hall of Urbanism
 				&amp; Architecture, 2022), <em>Stepping on the Ground, the Floor is Raised</em> (Arumjigi, 2020), and <em>Donuimun is Open</em> (Donuimun Museum
-				Village, 2018). He also continues his ongoing exhibition series, <em>Building</em>.`,1),X=c('<article><figure><img alt="Kim Hyunjong"></figure> <main><div class="body-style"><!></div></main></article>');function Q(b,v){B(v,!1);const[l,d]=T(),u=()=>k(I,"$src",l),A=()=>k(P,"$lang",l);U();var n=X(),o=a(n),y=a(o);r(o);var h=w(o,2),m=a(h),C=a(m);{var f=e=>{var s=q();S(),i(e,s)},p=e=>{var s=W();S(15),i(e,s)};_(C,e=>{A()==="ko"?e(f):e(p,!1)})}r(m),r(h),r(n),D(e=>R(y,"src",e),[()=>u()(z)],j),i(b,n),L(),d()}const Z=""+new URL("../assets/2.k-C_x-7h.jpg",import.meta.url).href;var ee=c(`<strong>박희찬</strong>은 서울과 런던에서 건축을 공부하였으며,
-				영국왕립건축사(RIBA)로 2018년 서울에서 스튜디오히치를 설립했다.
-				건축, 산업디자인, 패브리케이션, 디지털 인터랙션, 전시 분야에서
-				프로젝트를 진행하고 있다. 2020년에 한국건축가협회상, 2022년에
-				문화체육부장관이 수여하는 ‘오늘의 젊은 예술가상’을 수상했고,
-				2023년에 『아키텍추럴 리뷰』의 ‘이머징 아키텍츠’ 후보에 올랐다.
-				주요작품으로는 산양양조장(2020), 서울어반핀볼머신(2021),
-				포스리하우스(2023)가 있으며, 《젊은 모색 2023 : 미술관을 위한
-				주석》(MMCA, 2023), 《방(房), 스스로 그러한》(아름지기, 2024)에
-				초대되어 작품을 전시했다. 2024년 《서펜타인 파빌리온의 순간들
+				Village, 2018). He also continues his ongoing exhibition series, <em>Building</em>.`,1),Q=d('<article><figure><a><img alt="Kim Hyunjong"></a></figure> <main><div class="body-style"><!></div></main></article>');function Z(k,_){I(_,!1);const[h,p]=j(),g=()=>x(N,"$src",h),S=()=>x(R,"$lang",h),s="../works/new-voyage",y=O(),[l,B]=y;F();var m=Q(),u=a(m),c=a(u),C=a(c);r(c),r(u);var v=H(u,2),b=a(v),M=a(b);{var f=t=>{var i=W(),n=L(i);$(),T(e=>A(n,"href",e),[()=>l(s,void 0)],P),o(t,i)},w=t=>{var i=X(),n=L(i);$(15),T(e=>A(n,"href",e),[()=>l(s,void 0)],P),o(t,i)};D(M,t=>{S()==="ko"?t(f):t(w,!1)})}r(b),r(v),r(m),T((t,i)=>{A(c,"href",t),A(C,"src",i)},[()=>l(s,void 0),()=>g()(q)],P),o(k,m),E(),p()}const ee=""+new URL("../assets/2.k-C_x-7h.jpg",import.meta.url).href;var ae=d(`<a><strong>박희찬</strong></a>은 서울과 런던에서 건축을
+				공부하였으며, 영국왕립건축사(RIBA)로 2018년 서울에서
+				스튜디오히치를 설립했다. 건축, 산업디자인, 패브리케이션, 디지털
+				인터랙션, 전시 분야에서 프로젝트를 진행하고 있다. 2020년에
+				한국건축가협회상, 2022년에 문화체육부장관이 수여하는 ‘오늘의
+				젊은 예술가상’을 수상했고, 2023년에 『아키텍추럴 리뷰』의
+				‘이머징 아키텍츠’ 후보에 올랐다. 주요작품으로는
+				산양양조장(2020), 서울어반핀볼머신(2021), 포스리하우스(2023)가
+				있으며, 《젊은 모색 2023 : 미술관을 위한 주석》(MMCA, 2023),
+				《방(房), 스스로 그러한》(아름지기, 2024)에 초대되어 작품을
+				전시했다. 2024년 《서펜타인 파빌리온의 순간들
 				2000-2024》(서울도시건축전시관, 2024)을 기획했다. 저서로는
-				『여행의 기록 알바알토』가 있다.`,1),ae=c(`<strong>Heechan Park</strong> is a qualified architect(RIBA) and
-				studied architecture in Seoul and London. Heechan founded Studio
-				Heech in 2018, working on projects in the fields of
-				architecture, industrial design, fabrication, digital
+				『여행의 기록 알바알토』가 있다.`,1),re=d(`<a><strong>Heechan Park</strong></a> is a qualified
+				architect(RIBA) and studied architecture in Seoul and London.
+				Heechan founded Studio Heech in 2018, working on projects in the
+				fields of architecture, industrial design, fabrication, digital
 				interaction, and exhibitions. He received the Korean Institute
 				of Architects(KIA)’s <em>The Building of the Year award</em> for
 				Sanyang Brewery in 2020, the <em>Today’s Young Artist Award</em> from the Minister of Culture, Sports and Tourism in 2022, and was
 				shortlisted for <em>The Architectural Review’s Emerging Architects</em> in 2023.
 				His major works include <em>Sanyang Brewery</em> (2020), <em>Seoul Urban Pinball Machine</em> (2021), and <em>Four Three House</em> (2023). He was invited to exhibit his works at <em>Young Korean Artists 2023</em> (MMCA, 2023) and <em>Bang(房)</em>, <em>Being as It Is</em> (Areumjigi, 2024). He
-				also curated <em>Moments in Serpentine Pavilions 2000–2024</em> (Seoul Hall of Urbanism &amp; Architecture, 2024) and authored <em>Aalto and my travel</em>.`,1),re=c('<article><figure><img alt="Heechan Park"></figure> <main><div class="body-style"><!></div></main></article>');function te(b,v){B(v,!1);const[l,d]=T(),u=()=>k(I,"$src",l),A=()=>k(P,"$lang",l);U();var n=re(),o=a(n),y=a(o);r(o);var h=w(o,2),m=a(h),C=a(m);{var f=e=>{var s=ee();S(),i(e,s)},p=e=>{var s=ae();S(23),i(e,s)};_(C,e=>{A()==="ko"?e(f):e(p,!1)})}r(m),r(h),r(n),D(e=>R(y,"src",e),[()=>u()(Z)],j),i(b,n),L(),d()}const ie=""+new URL("../assets/3.7c6YN8vB.jpg",import.meta.url).href;var ne=c(`<strong>양예나</strong>는 플라스티크판타스티크의 공동 감독이다.
-				플라스티크판타스티크는 현실의 개념과 감각의 한계에 도전하는
-				몰입형 공간 설치 작품을 창작하는 아트 듀오다. 연세대학교에서
-				건축학 학사 학위를, 핀란드 알토 대학교에서 공간 디자인 석사
-				학위를 취득했다. 주요 프로젝트로는 RINGdeLUXE (파리 Nuit
-				Blanche, 2023), TREES &amp; TRACES (서울도시건축비엔날레, 2023),
-				#StayOut (네덜란드 오에롤페스티벌, 2022), DOUBLE HEART (타이베이
-				디지털아트페스티벌, 2020), Blurry Venice (베니스비엔날레
-				베네치아관, 2019)가 있다. 설치 작업을 통해 공간과 이야기의
-				관계를 재탐색하며, 익숙한 환경을 탐험을 위한 무대로 변화시키고
-				있다.`,1),oe=c(`<strong>Young Yena</strong> is a co-director of Plastique
-				Fantastique - an art duo that creates immersive spatial
-				installations, challenging the notion of reality and pushing the
-				boundaries of our senses. She holds a bachelor's degree in
-				architecture from Yonsei University and a master's degree in
-				spatial design from Aalto University. The major projects include <em>RINGdeLUXE</em> (Nuit Blanche, 2023), <em>TREES &amp; TRACES</em> (Seoul Biennale of Architecture and
+				also curated <em>Moments in Serpentine Pavilions 2000–2024</em> (Seoul Hall of Urbanism &amp; Architecture, 2024) and authored <em>Aalto and my travel</em>.`,1),te=d('<article><figure><a><img alt="Heechan Park"></a></figure> <main><div class="body-style"><!></div></main></article>');function ie(k,_){I(_,!1);const[h,p]=j(),g=()=>x(N,"$src",h),S=()=>x(R,"$lang",h),s="../works/time-for-trees",y=O(),[l,B]=y;F();var m=te(),u=a(m),c=a(u),C=a(c);r(c),r(u);var v=H(u,2),b=a(v),M=a(b);{var f=t=>{var i=ae(),n=L(i);$(),T(e=>A(n,"href",e),[()=>l(s,void 0)],P),o(t,i)},w=t=>{var i=re(),n=L(i);$(23),T(e=>A(n,"href",e),[()=>l(s,void 0)],P),o(t,i)};D(M,t=>{S()==="ko"?t(f):t(w,!1)})}r(b),r(v),r(m),T((t,i)=>{A(c,"href",t),A(C,"src",i)},[()=>l(s,void 0),()=>g()(ee)],P),o(k,m),E(),p()}const ne=""+new URL("../assets/3.7c6YN8vB.jpg",import.meta.url).href;var oe=d(`<a><strong>양예나</strong></a>는 플라스티크판타스티크의
+				공동 감독이다. 플라스티크판타스티크는 현실의 개념과 감각의
+				한계에 도전하는 몰입형 공간 설치 작품을 창작하는 아트 듀오다.
+				연세대학교에서 건축학 학사 학위를, 핀란드 알토 대학교에서 공간
+				디자인 석사 학위를 취득했다. 주요 프로젝트로는 RINGdeLUXE (파리
+				Nuit Blanche, 2023), TREES &amp; TRACES (서울도시건축비엔날레,
+				2023), #StayOut (네덜란드 오에롤페스티벌, 2022), DOUBLE HEART
+				(타이베이 디지털아트페스티벌, 2020), Blurry Venice
+				(베니스비엔날레 베네치아관, 2019)가 있다. 설치 작업을 통해
+				공간과 이야기의 관계를 재탐색하며, 익숙한 환경을 탐험을 위한
+				무대로 변화시키고 있다.`,1),se=d(`<a><strong>Young Yena</strong></a> is a co-director of
+				Plastique Fantastique - an art duo that creates immersive
+				spatial installations, challenging the notion of reality and
+				pushing the boundaries of our senses. She holds a bachelor's
+				degree in architecture from Yonsei University and a master's
+				degree in spatial design from Aalto University. The major
+				projects include <em>RINGdeLUXE</em> (Nuit Blanche, 2023), <em>TREES &amp; TRACES</em> (Seoul Biennale of Architecture and
 				Urbanism, 2023), <em>#StayOut</em> (Oerol Festival, 2022), <em>DOUBLE HEART</em> (Digital Art Festival Taipei, 2020), and <em>Blurry Venice</em> (Venice Pavilion, La Biennale di Venezia,
 				2019). Her installation works reexamine the relationship between
 				space and storytelling, transforming familiar environments into stages
-				for exploration.`,1),se=c('<article><figure><img alt="Young Yena"></figure> <main><div class="body-style"><!></div></main></article>');function ce(b,v){B(v,!1);const[l,d]=T(),u=()=>k(I,"$src",l),A=()=>k(P,"$lang",l);U();var n=se(),o=a(n),y=a(o);r(o);var h=w(o,2),m=a(h),C=a(m);{var f=e=>{var s=ne();S(),i(e,s)},p=e=>{var s=oe();S(11),i(e,s)};_(C,e=>{A()==="ko"?e(f):e(p,!1)})}r(m),r(h),r(n),D(e=>R(y,"src",e),[()=>u()(ie)],j),i(b,n),L(),d()}const le=""+new URL("../assets/4.aZzB6NQK.jpg",import.meta.url).href;var ue=c(`<strong>이다미</strong>는 서울대학교와 하버드GSD에서 건축을
-				전공하고 건축사사무소 플로라앤파우나 대표로 있다.
-				식물·동물·사물·건물을 통해 공간과 관계의 생기를 작동시키는
+				for exploration.`,1),ce=d('<article><figure><a><img alt="Young Yena"></a></figure> <main><div class="body-style"><!></div></main></article>');function le(k,_){I(_,!1);const[h,p]=j(),g=()=>x(N,"$src",h),S=()=>x(R,"$lang",h),s="../works/30-million-years-under-the-pavilion",y=O(),[l,B]=y;F();var m=ce(),u=a(m),c=a(u),C=a(c);r(c),r(u);var v=H(u,2),b=a(v),M=a(b);{var f=t=>{var i=oe(),n=L(i);$(),T(e=>A(n,"href",e),[()=>l(s,void 0)],P),o(t,i)},w=t=>{var i=se(),n=L(i);$(11),T(e=>A(n,"href",e),[()=>l(s,void 0)],P),o(t,i)};D(M,t=>{S()==="ko"?t(f):t(w,!1)})}r(b),r(v),r(m),T((t,i)=>{A(c,"href",t),A(C,"src",i)},[()=>l(s,void 0),()=>g()(ne)],P),o(k,m),E(),p()}const ue=""+new URL("../assets/4.aZzB6NQK.jpg",import.meta.url).href;var de=d(`<a><strong>이다미</strong></a>는 서울대학교와
+				하버드GSD에서 건축을 전공하고 건축사사무소 플로라앤파우나 대표로
+				있다. 식물·동물·사물·건물을 통해 공간과 관계의 생기를 작동시키는
 				물질의 존재 방식과 건축 이미지의 가능성을 사변한다. 이를 통해
 				산업화 제도화된 건축의 풍경을 새로운 자연과 젠더, 장식의
 				측면에서 재고한다. 대표작으로는 노이즈센터(2023), 기둥 옷(2021)
 				등이 있으며 《젊은 모색 2023: 미술관을 위한 주석》(MMCA, 2023)
 				등의 전시에 참여했다. 기획집단 ‘여집합’의 창립멤버로
 				『빌딩롤모델즈: 여성이 말하는 건축』을 함께 썼다. 현재
-				서울대학교에 출강 중이다.`,1),de=c(`<strong>Lee Dammy</strong> is an architect and designer, and the
-				principal of the architectural firm Flora and Fauna. She studied
-				architecture at Seoul National University and Harvard Graduate
-				School of Design. Lee speculates on how the presence of matter
-				animates the vitality of space and relationships through the
-				interplay of plants, animals, objects, and buildings, while
-				exploring the possibilities of architectural imagery. In doing
-				so, she revisits the landscape of industrialized and
-				institutionalized architecture through the lenses of new nature,
-				gender, and ornamentation. Notable works include <em>Noise Center</em> (2023) and <em>Pillar Suit</em> (2021),
+				서울대학교에 출강 중이다.`,1),he=d(`<a><strong>Lee Dammy</strong></a> is an architect and
+				designer, and the principal of the architectural firm Flora and
+				Fauna. She studied architecture at Seoul National University and
+				Harvard Graduate School of Design. Lee speculates on how the
+				presence of matter animates the vitality of space and
+				relationships through the interplay of plants, animals, objects,
+				and buildings, while exploring the possibilities of
+				architectural imagery. In doing so, she revisits the landscape
+				of industrialized and institutionalized architecture through the
+				lenses of new nature, gender, and ornamentation. Notable works
+				include <em>Noise Center</em> (2023) and <em>Pillar Suit</em> (2021),
 				and she has participated in exhibitions including <em>Young Korean Artists 2023</em> (MMCA, 2023). Lee is a
 				founding member of the collective Yeojiphap and co-author of <em>Building Role Models: Architecture Spoken by Women</em>.
-				Currently, she teaches at Seoul National University.`,1),he=c('<article><figure><img alt="Lee Dammy"></figure> <main><div class="body-style"><!></div></main></article>');function me(b,v){B(v,!1);const[l,d]=T(),u=()=>k(I,"$src",l),A=()=>k(P,"$lang",l);U();var n=he(),o=a(n),y=a(o);r(o);var h=w(o,2),m=a(h),C=a(m);{var f=e=>{var s=ue();S(),i(e,s)},p=e=>{var s=de();S(9),i(e,s)};_(C,e=>{A()==="ko"?e(f):e(p,!1)})}r(m),r(h),r(n),D(e=>R(y,"src",e),[()=>u()(le)],j),i(b,n),L(),d()}var ge=c('<main class="row -border-bottom -inner-padding"><div class="container"><header><div class="heading-style"><!></div></header> <main><section class="participants-list"><!> <!> <!> <!></section></main></div></main>');function ve(b){const[v,l]=T(),d=()=>k(P,"$lang",v);var u=ge(),A=a(u),n=a(A),o=a(n),y=a(o);{var h=M=>{var $=K("참여 작가");i(M,$)},m=M=>{var $=K("Architects/Artists");i(M,$)};_(y,M=>{d()==="ko"?M(h):M(m,!1)})}r(o),r(n);var C=w(n,2),f=a(C),p=a(f);Q(p,{});var e=w(p,2);te(e,{});var s=w(e,2);ce(s,{});var x=w(s,2);me(x,{}),r(f),r(C),r(A),r(u),i(b,u),l()}var fe=c(`<strong>정다영</strong>은 큐레이터이자 에디터로
+				Currently, she teaches at Seoul National University.`,1),me=d('<article><figure><a><img alt="Lee Dammy"></a></figure> <main><div class="body-style"><!></div></main></article>');function ge(k,_){I(_,!1);const[h,p]=j(),g=()=>x(N,"$src",h),S=()=>x(R,"$lang",h),s="../works/overwriting-overriding",y=O(),[l,B]=y;F();var m=me(),u=a(m),c=a(u),C=a(c);r(c),r(u);var v=H(u,2),b=a(v),M=a(b);{var f=t=>{var i=de(),n=L(i);$(),T(e=>A(n,"href",e),[()=>l(s,void 0)],P),o(t,i)},w=t=>{var i=he(),n=L(i);$(9),T(e=>A(n,"href",e),[()=>l(s,void 0)],P),o(t,i)};D(M,t=>{S()==="ko"?t(f):t(w,!1)})}r(b),r(v),r(m),T((t,i)=>{A(c,"href",t),A(C,"src",i)},[()=>l(s,void 0),()=>g()(ue)],P),o(k,m),E(),p()}var ve=d('<main class="row -border-bottom -inner-padding"><div class="container"><header><div class="heading-style"><!></div></header> <main><section class="participants-list"><!> <!> <!> <!></section></main></div></main>');function fe(k){const[_,h]=j(),p=()=>x(R,"$lang",_);var g=ve(),S=a(g),s=a(S),y=a(s),l=a(y);{var B=f=>{var w=U("참여 작가");o(f,w)},m=f=>{var w=U("Architects/Artists");o(f,w)};D(l,f=>{p()==="ko"?f(B):f(m,!1)})}r(y),r(s);var u=H(s,2),c=a(u),C=a(c);Z(C,{});var v=H(C,2);ie(v,{});var b=H(v,2);le(b,{});var M=H(b,2);ge(M,{}),r(c),r(u),r(S),r(g),o(k,g),h()}var pe=d(`<strong>정다영</strong>은 큐레이터이자 에디터로
 						건축·도시·시각문화 관련 연구와 전시, 글쓰기를 하고 있다.
 						2011년부터 2024년까지 국립현대미술관 학예연구사로
 						재직하며 《그림일기: 정기용 건축 아카이브》(2013),
@@ -157,7 +160,7 @@ import"../chunks/CWj6FrbW.js";import"../chunks/69_IOA4Y.js";import{p as B,t as D
 						『여우 요괴』, 『바나나가 더 일찍 오려면』, 그린 책으론
 						『노란 장화』, 『루루 사냥꾼』, 『아빠와 나』, 『작은
 						연못』 등이 있다. 2015년과 2018년에 볼로냐
-						국제아동도서전에서 라가치 상을 수상했다.`,1),pe=c(`<strong>Chung Dahyoung</strong> is a curator and editor
+						국제아동도서전에서 라가치 상을 수상했다.`,1),be=d(`<strong>Chung Dahyoung</strong> is a curator and editor
 						whose work explores architecture, urbanism, and visual
 						culture through research, exhibitions, and writing. From
 						2011 to 2024, she served as a curator at the National
@@ -220,7 +223,7 @@ import"../chunks/CWj6FrbW.js";import"../chunks/69_IOA4Y.js";import{p as B,t as D
 						Art &amp; Architecture Design categories. His works have
 						been published in South Korea, the United States,
 						France, Belgium, China, and Taiwan. Some of his most
-						notable books include <em>LOOK UP, THE WALL, 3 Seconds</em>, and <em>The Nine-Tailed Fox</em>.`,1),be=c(`<strong>백윤석</strong>은 광고, 미디어, 영상 인류학을
+						notable books include <em>LOOK UP, THE WALL, 3 Seconds</em>, and <em>The Nine-Tailed Fox</em>.`,1),Ae=d(`<strong>백윤석</strong>은 광고, 미디어, 영상 인류학을
 						전공한 후 웹 다큐 채널 더도슨트를 운영하고 있다.
 						국립현대미술관, 광주비엔날레, 베니스비엔날레 한국관
 						전시에 아카이브, 인터뷰, 다큐멘터리 등 다양한 매체를
@@ -255,7 +258,7 @@ import"../chunks/CWj6FrbW.js";import"../chunks/69_IOA4Y.js";import{p as B,t as D
 						근무했다. 현재 국립현대미술관 과천관 학예팀에서 전시
 						코디네이터로 근무하며 해외교류전 《Korea in Color: A
 						Legacy of Auspicious Images》(2023), 《연결하는 집:
-						대안적 삶을 위한 건축》(2024) 전시 진행을 맡았다.`,1),Ae=c(`<strong>Baek Yunsuk</strong> studied advertising, media,
+						대안적 삶을 위한 건축》(2024) 전시 진행을 맡았다.`,1),_e=d(`<strong>Baek Yunsuk</strong> studied advertising, media,
 						and visual anthropology before founding the web
 						documentary channel <em>The Docent</em>. He has produced
 						exhibition videos using various media, including
@@ -295,4 +298,4 @@ import"../chunks/CWj6FrbW.js";import"../chunks/69_IOA4Y.js";import{p as B,t as D
 						Art, Korea (MMCA) and worked as an assistant curator at Art
 						Sonje Center. Currently, she works as a curatorial assistant
 						at MMCA, where she coordinates international exchange and
-						archive exhibitions.`,1),ye=c('<main class="row -inner-padding"><div class="container"><header><div class="heading-style"><!></div></header> <main><section><div class="body-style"><!></div></section> <section><div class="body-style"><!></div></section></main></div></main>');function Ce(b){const[v,l]=T(),d=()=>k(P,"$lang",v);var u=ye(),A=a(u),n=a(A),o=a(n),y=a(o);{var h=t=>{var H=K("전시 기획진 및 협력팀");i(t,H)},m=t=>{var H=K("Curatorial Team");i(t,H)};_(y,t=>{d()==="ko"?t(h):t(m,!1)})}r(o),r(n);var C=w(n,2),f=a(C),p=a(f),e=a(p);{var s=t=>{var H=fe();S(37),i(t,H)},x=t=>{var H=pe();S(66),i(t,H)};_(e,t=>{d()==="ko"?t(s):t(x,!1)})}r(p),r(f);var M=w(f,2),$=a(M),E=a($);{var N=t=>{var H=be();S(19),i(t,H)},g=t=>{var H=Ae();S(49),i(t,H)};_(E,t=>{d()==="ko"?t(N):t(g,!1)})}r($),r(M),r(C),r(A),r(u),i(b,u),l()}var we=c("<!> <!> <!>",1);function xe(b){var v=we(),l=O(v);V(l,{});var d=w(l,2);ve(d);var u=w(d,2);Ce(u),i(b,v)}export{xe as component};
+						archive exhibitions.`,1),ye=d('<main class="row -inner-padding"><div class="container"><header><div class="heading-style"><!></div></header> <main><section><div class="body-style"><!></div></section> <section><div class="body-style"><!></div></section></main></div></main>');function Ce(k){const[_,h]=j(),p=()=>x(R,"$lang",_);var g=ye(),S=a(g),s=a(S),y=a(s),l=a(y);{var B=e=>{var K=U("전시 기획진 및 협력팀");o(e,K)},m=e=>{var K=U("Curatorial Team");o(e,K)};D(l,e=>{p()==="ko"?e(B):e(m,!1)})}r(y),r(s);var u=H(s,2),c=a(u),C=a(c),v=a(C);{var b=e=>{var K=pe();$(37),o(e,K)},M=e=>{var K=be();$(66),o(e,K)};D(v,e=>{p()==="ko"?e(b):e(M,!1)})}r(C),r(c);var f=H(c,2),w=a(f),t=a(w);{var i=e=>{var K=Ae();$(19),o(e,K)},n=e=>{var K=_e();$(49),o(e,K)};D(t,e=>{p()==="ko"?e(i):e(n,!1)})}r(w),r(f),r(u),r(S),r(g),o(k,g),h()}var we=d("<!> <!> <!>",1);function Be(k){var _=we(),h=L(_);z(h,{});var p=H(h,2);fe(p);var g=H(p,2);Ce(g),o(k,_)}export{Be as component};

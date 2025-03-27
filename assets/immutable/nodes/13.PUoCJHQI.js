@@ -1,4 +1,4 @@
-import"../chunks/CWj6FrbW.js";import"../chunks/69_IOA4Y.js";import{I as Ea,V as Ja}from"../chunks/CVKl-735.js";import{f as va,c as o,r as v,s as l,a9 as p}from"../chunks/B0AdQyPJ.js";import{t as c,a as t,b as s}from"../chunks/DGcdMttv.js";import{i as n,a as da,s as ia,l as na}from"../chunks/CaWsOuxX.js";var Ya=c("Heechan Park, <em>Time for Trees</em>",1),za=c(`Heechan Park’s <em>Time for Trees</em> features architectural
+import"../chunks/CWj6FrbW.js";import"../chunks/69_IOA4Y.js";import{I as Ea,V as Ja}from"../chunks/BXUPGh-a.js";import{f as va,c as o,r as v,s as l,a9 as p}from"../chunks/B0AdQyPJ.js";import{t as c,a as t,b as s}from"../chunks/DGcdMttv.js";import{i as n,a as da,s as ia,l as na}from"../chunks/C-8CC3tM.js";var Ya=c("Heechan Park, <em>Time for Trees</em>",1),za=c(`Heechan Park’s <em>Time for Trees</em> features architectural
 			apparatuses that respond to the trees and vegetation of the
 			Giardini—elements deeply embedded in the architectural identity of
 			the Korean Pavilion. Emphasizing the pavilion’s architectural
