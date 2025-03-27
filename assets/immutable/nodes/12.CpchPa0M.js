@@ -1,4 +1,4 @@
-import{t as b,a as r,b as o}from"../chunks/DJAbd26x.js";import"../chunks/1QXqNjBk.js";import{I as ka,V as wa}from"../chunks/BXAvhNL4.js";import{f as Q,c as s,r as i,s as v,ab as J}from"../chunks/se-oR36g.js";import{i as l}from"../chunks/CCm-Zyld.js";import{a as X,s as Z,l as $}from"../chunks/BYgKK8n_.js";var ya=b("Lee Dammy, <em>Overwriting, Overriding</em>",1),Da=b(`Lee Dammy’s installation, which begins at the entrance of the Korean
+import{t as b,a as r,b as o}from"../chunks/DJAbd26x.js";import"../chunks/1QXqNjBk.js";import{I as ka,V as wa}from"../chunks/DQeuXkZT.js";import{f as Q,c as s,r as i,s as v,ab as J}from"../chunks/se-oR36g.js";import{i as l}from"../chunks/CCm-Zyld.js";import{a as X,s as Z,l as $}from"../chunks/BQcDfreP.js";var ya=b("Lee Dammy, <em>Overwriting, Overriding</em>",1),Da=b(`Lee Dammy’s installation, which begins at the entrance of the Korean
 			Pavilion, holds symbolic significance as a loop that circulates the
 			beginning and end of <em>Little Toad, Little Toad</em>. <em>Overwriting, Overriding</em> brings forth the hidden entities that have silently coexisted with the
 			pavilion, offering an opportunity to reflect on its history. Among the
@@ -14,11 +14,12 @@ import{t as b,a as r,b as o}from"../chunks/DJAbd26x.js";import"../chunks/1QXqNjB
 			덮어씌우기〉는 한국관의 지난 역사에서 드러나지 않았던 숨은 존재들을
 			화자로 드러내 한국관을 다시 돌아보는 계기를 제공한다. 작가가 설정한
 			네 명(개)의 화자는 한국관을 지키고 있는 나무와 이곳을 제 집처럼
-			드나드는 고양이 ‘무카’와 같은 존재들이다. 한국관에는 설계자나 전시를
-			만든 큐레이터와 작가, 작품뿐만 아니라 다양한 존재들이 공존하고
-			있었음을 알려준다. 이다미는 이와 같이 사변적인 접근을 통해 한국관을
-			다시 쓴다. 그는 한국관의 기존 이야기에 구멍과 같은 균열을 만들면서,
-			관객이 마치 ‘앨리스의 동굴’로 들어가도록 유도한다.`);r(t,n)},S=t=>{var n=Da();J(6),r(t,n)};l(h,t=>{d()==="ko"?t(R):t(S,!1)})}i(f),i(c);var C=v(c,2),u=s(C),y=v(s(u),2),U=s(y);{var T=t=>{var n=o(`재봉한 나일론 망사천 위 자수, 스테인리스 와이어와 무게추,
+			드나드는 고양이 ‘무카’와 같은 존재들이다. 이 작업은 한국관에
+			설계자나 전시를 만든 큐레이터와 작가, 작품뿐만 아니라 다양한
+			존재들이 공존하고 있었음을 알려준다. 이다미는 이와 같이 사변적인
+			접근을 통해 한국관을 다시 쓴다. 그는 한국관의 기존 이야기에 구멍과
+			같은 균열을 만들면서, 관객이 마치 ‘앨리스의 동굴’로 들어가도록
+			유도한다.`);r(t,n)},S=t=>{var n=Da();J(6),r(t,n)};l(h,t=>{d()==="ko"?t(R):t(S,!1)})}i(f),i(c);var C=v(c,2),u=s(C),y=v(s(u),2),U=s(y);{var T=t=>{var n=o(`재봉한 나일론 망사천 위 자수, 스테인리스 와이어와 무게추,
 				가변크기, 2024`);r(t,n)},z=t=>{var n=o(`Embroidery on sewn nylon mesh fabric, Stainless steel wire and
 				weights, Dimensions variable, 2024`);r(t,n)};l(U,t=>{d()==="ko"?t(T):t(z,!1)})}i(y),i(u);var D=v(u,2),A=v(s(D),2),H=s(A);{var M=t=>{var n=o("한지 종이 겹붙임 위 편지 인쇄와 구멍, 가변크기, 2024");r(t,n)},I=t=>{var n=o(`Printed letters and punched holes on layered hanji (Korean
 				indigenous paper), Dimensions variable, 2024`);r(t,n)};l(H,t=>{d()==="ko"?t(M):t(I,!1)})}i(A),i(D);var x=v(D,2),K=v(s(x),2),V=s(K);{var Y=t=>{var n=o(`솜을 넣은 이불과 베개, 다양한 직물로 된 커버 위 단추와 자수,

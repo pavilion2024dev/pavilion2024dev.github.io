@@ -1,6 +1,6 @@
-import{t as _,a as t,b as s}from"../chunks/DJAbd26x.js";import"../chunks/1QXqNjBk.js";import{I as H,V as J}from"../chunks/BXAvhNL4.js";import{f as G,c as o,r as i,s as f,ab as k}from"../chunks/se-oR36g.js";import{i as l}from"../chunks/CCm-Zyld.js";import{a as K,s as N,l as A}from"../chunks/BYgKK8n_.js";var O=_("Young Yena, <em>30 Million Years Under the Pavilion</em>",1),X=_(`Young Yena’s <em>30 Million Years Under the Pavilion</em> explores the primordial time and space of the Korean Pavilion. Developing
+import{t as _,a as t,b as s}from"../chunks/DJAbd26x.js";import"../chunks/1QXqNjBk.js";import{I as H,V as J}from"../chunks/DQeuXkZT.js";import{f as G,c as o,r as i,s as f,ab as k}from"../chunks/se-oR36g.js";import{i as l}from"../chunks/CCm-Zyld.js";import{a as K,s as N,l as A}from"../chunks/BQcDfreP.js";var O=_("Young Yena, <em>30 Million Years Under the Pavilion</em>",1),X=_(`Young Yena’s <em>30 Million Years Under the Pavilion</em> explores the primordial time and space of the Korean Pavilion. Developing
 			through a fictional narrative, the work is the result of collaboration
-			with a biologist, a cultural anthropologist, and an evolutionary sociologist.
+			with a biologist, a cultural anthropologist, and a genetic sociologist.
 			Engaging with the narrative of the site itself, the installation is situated
 			both underneath the piloti-elevated space of the structure and within
 			the century-old brick building: both the physical origins of the Korean
