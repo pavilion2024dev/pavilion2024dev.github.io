@@ -1,0 +1,1 @@
+import{au as e,av as r}from"./mut2hqEj.js";const t={get error(){return r.error},get route(){return r.route},get status(){return r.status},get url(){return r.url}};e.updated.check;const a=t;export{a as p};
