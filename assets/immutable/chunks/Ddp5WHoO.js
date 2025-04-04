@@ -1,0 +1,1 @@
+import{ak as r,al as i,am as c,D as s,an as v}from"./Bn2mNyb7.js";function u(t,a,e,o=!0){o&&e();for(var n of a)t.addEventListener(n,e);v(()=>{for(var f of a)t.removeEventListener(f,e)})}function l(t){var a=c,e=s;r(null),i(null);try{return t()}finally{r(a),i(e)}}export{u as l,l as w};
