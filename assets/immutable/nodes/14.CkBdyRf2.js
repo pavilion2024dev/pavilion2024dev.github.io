@@ -1,1 +1,0 @@
-import{B as e,C as t,V as n,x as r}from"../chunks/U-JHGyks.js";import"../chunks/BcrjhpdC.js";import"../chunks/BYsypX6r.js";import{t as i}from"../chunks/BdRdfVZk.js";var a=t(`<div class="container inverted-color-scheme"></div> <!>`,1);function o(t){var o=a();i(n(e(o),2),{}),r(t,o)}export{o as component};

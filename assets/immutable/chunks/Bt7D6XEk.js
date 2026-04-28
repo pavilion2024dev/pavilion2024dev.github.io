@@ -1,0 +1,1 @@
+var e={enabled:{locale:!0,colorScheme:!0},navigatingEffect:{type:`bar`,touchDeviceOnly:!1,viewTransition:!0}};export{e as t};

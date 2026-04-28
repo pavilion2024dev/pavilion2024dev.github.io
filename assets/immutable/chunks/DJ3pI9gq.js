@@ -1,0 +1,1 @@
+import{C as e,x as t}from"./U-JHGyks.js";import"./BKyh3mbG.js";import"./Bh8b5Jrk.js";var n=e(`<div class="error svelte-bo9uhu">Coming soon</div>`);function r(e){t(e,n())}export{r as t};
