@@ -1,4 +1,4 @@
-import{C as e,V as t,W as n,it as r,k as i,rt as a,x as o,y as s,z as c}from"../chunks/RUBL1kxk.js";import"../chunks/CDp8LI4C.js";var l=e(`All visitors are, in fact, potential Bearers of the Korean Pavilion,
+import{C as e,V as t,W as n,it as r,k as i,rt as a,x as o,y as s,z as c}from"../chunks/UXPQZ7cb.js";import"../chunks/DSqdQoC7.js";var l=e(`All visitors are, in fact, potential Bearers of the Korean Pavilion,
 			activating and making use of the living monument to “Liberation
 			Space.” Those formally named and invited as Bearers simply set the
 			example, embodying a path through the space that is punctuated with

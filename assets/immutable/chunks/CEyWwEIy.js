@@ -1,1 +1,0 @@
-import{nt as e}from"./RUBL1kxk.js";e();

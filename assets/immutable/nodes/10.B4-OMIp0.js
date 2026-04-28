@@ -1,1 +1,0 @@
-import{C as e,P as t,W as n,b as r,it as i,k as a,x as o,z as s}from"../chunks/RUBL1kxk.js";import"../chunks/CDp8LI4C.js";var c=e(`<div class="container -wide inverted-color-scheme"> </div>`);function l(e,l){let u=n(()=>l.data.router);var d=c(),f=s(d,!0);i(d),t(()=>r(f,a(u).pageTitle)),o(e,d)}export{l as component};
