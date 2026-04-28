@@ -1,0 +1,1 @@
+import{C as e,P as t,c as n,it as r,x as i,z as a}from"../chunks/RUBL1kxk.js";import"../chunks/CDp8LI4C.js";import"../chunks/CEyWwEIy.js";var o=``+new URL(`../assets/guide.C-NNGmwB.jpg`,import.meta.url).href,s=e(`<figure class="invert-on-dark"><img alt="Guide"/></figure>`);function c(e){var c=s(),l=a(c);r(c),t(()=>n(l,`src`,o)),i(e,c)}export{c as component};
