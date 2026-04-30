@@ -1,4 +1,22 @@
-import{A as e,C as t,E as n,G as r,H as i,S as a,V as o,b as s,et as c,it as l,st as u,tt as d,w as f}from"../chunks/D6YmX0lb.js";import"../chunks/BKyh3mbG.js";import{t as p}from"../chunks/BiP7OAhz.js";import{a as m,i as h,n as g,r as _,t as v}from"../chunks/PF7GEyAI.js";var y=u({load:()=>b}),b=async({parent:e})=>({backToList:`/reader`,title:(await e()).locale===`ko`?`대담: 안무, 결합, 연대`:`Choreography, Conjugation, Coalition: A Dialogue`}),x=f(`<p>바이오</p>`),S=f(`<p>Bio</p>`);function C(i,l){d(l,!0);let u=r(()=>p.data),f=r(()=>e(u).locale);v(i,{name:r=>{var i=t(),c=o(i),l=e=>{a(e,n(`저자`))},u=e=>{a(e,n(`Author`))};s(c,t=>{e(f)===`ko`?t(l):t(u,-1)}),a(r,i)},children:(n,r)=>{var i=t(),c=o(i),l=e=>{a(e,x())},u=e=>{a(e,S())};s(c,t=>{e(f)===`ko`?t(l):t(u,-1)}),a(n,i)},$$slots:{name:!0,default:!0}}),c()}var w=f(`<p>바이오</p>`),T=f(`<p>Bio</p>`);function E(i,l){d(l,!0);let u=r(()=>p.data),f=r(()=>e(u).locale);v(i,{name:r=>{var i=t(),c=o(i),l=e=>{a(e,n(`저자`))},u=e=>{a(e,n(`Author`))};s(c,t=>{e(f)===`ko`?t(l):t(u,-1)}),a(r,i)},children:(n,r)=>{var i=t(),c=o(i),l=e=>{a(e,w())},u=e=>{a(e,T())};s(c,t=>{e(f)===`ko`?t(l):t(u,-1)}),a(n,i)},$$slots:{name:!0,default:!0}}),c()}var D=f(`<p class="help">이어지는 대담은 《해방공간: 요새와 둥지》의 작가 노혜리와 펠로우
+import{A as e,C as t,E as n,G as r,H as i,S as a,V as o,b as s,et as c,it as l,st as u,tt as d,w as f}from"../chunks/D6YmX0lb.js";import"../chunks/BKyh3mbG.js";import{t as p}from"../chunks/Bs-1PVbF.js";import{a as m,i as h,n as g,r as _,t as v}from"../chunks/CVhDFMIP.js";import{t as y}from"../chunks/DkXhIqjT.js";var b=u({load:()=>x}),x=async({parent:e})=>({backToList:`/reader`,title:(await e()).locale===`ko`?`대담: 안무, 결합, 연대`:`Choreography, Conjugation, Coalition: A Dialogue`}),S=f(`<p>노혜리는 사물과 몸의 관계를 매개로 언어를 탐구하는 퍼포먼스 작업을
+			이어오고 있다. 쉽게 규정되지 않는 상태와 감각에 주목하며,
+			사물–몸–말을 연결하는 수행적 실천을 통해 사적 경험과 정서, 기억,
+			장소, 도시, 언어, 움직임, 이야기 등 다양한 층위의 서사가 형성되는
+			과정을 탐색한다. 주요 경력으로는 2025년 두산갤러리 개인전 《August
+			is the Cruelest》, 2024년 뉴욕 카날 프로젝트 개인전 《Niro》, 2022년
+			프로젝트 스페이스 사루비아 《진희》 참여 등이 있다. 2025년
+			하반기부터는 뉴욕대학교 티시 예술학교(New York University Tisch
+			School of the Arts)에서 협력예술 조교수로 재직하며 교육 활동을
+			병행하고 있다.</p>`),C=f(`<p>Hyeree Ro is an artist based in Brooklyn, New York and Seoul,
+			primarily working with hand-crafted sculptural objects and
+			structures, and multi-lingual fractured narrative-based performance.
+			As a constant migrant passing through various immigrant statuses and
+			encountering disparities in class and wealth, she interweaves her
+			family history, places, language, body, movement, and stories into
+			her practice. Recent projects include solo exhibitions <em>August is the Cruelest</em> at Doosan Gallery, Seoul (2025), <em>Niro</em> at Canal Projects,
+			New York (2024), and <em>Jinhee</em> at Project Space SARUBIA. Seoul (2022).
+			Ro also serves as an Assistant Arts Professor of Collaborative Arts at
+			NYU Tisch School of the Arts.</p>`);function w(i,l){d(l,!0);let u=r(()=>p.data),f=r(()=>e(u).locale);v(i,{name:r=>{var i=t(),c=o(i),l=e=>{a(e,n(`노혜리`))},u=e=>{a(e,n(`Hyeree Ro`))};s(c,t=>{e(f)===`ko`?t(l):t(u,-1)}),a(r,i)},children:(n,r)=>{var i=t(),c=o(i),l=e=>{a(e,S())},u=e=>{a(e,C())};s(c,t=>{e(f)===`ko`?t(l):t(u,-1)}),a(n,i)},$$slots:{name:!0,default:!0}}),c()}var T=f(`<p class="help">이어지는 대담은 《해방공간: 요새와 둥지》의 작가 노혜리와 펠로우
 				크리스티앙 냠페타가 함께한다. 크리스티앙의 〈광주 레슨〉은
 				〈베어링〉에 포함되어 있다. 본 대담은 2026년 4월 줌으로
 				진행되었다.</p> <p>노혜리: 자, 어디서부터 시작할까요? (웃음) 저는 한국관 전시에서
@@ -341,7 +359,7 @@ import{A as e,C as t,E as n,G as r,H as i,S as a,V as o,b as s,et as c,it as l,s
 				궤적과 역사를 소개하며 작업 속에서 대화를 나눌 수 있다는 게 정말
 				특별했어요. 다시 한번 감사드려요.</p> <p>크리스티앙: 함께 생각하고 돌아볼 수 있는 이 자리와 시간, 그리고
 				관심에 정말 감사합니다.</p> <p>노혜리: 오프닝 때 꼭 함께해 주셨으면 좋겠어요. 노래도 있고,
-				행렬도 있을 거예요. (웃음)</p> <p>크리스티앙: 아, 좋은 건 다 있네요. 그럼 놓칠 수 없죠.</p> <p>노혜리: 그럼요.</p>`,1),O=f(`<p class="help">The following conversation brings together <em>Liberation Space: Fortress/Nest</em> artist Hyeree Ro and Fellow Christian Nyampeta, whose <em>Scenes from a Revolution—</em>lino carvings from the project
+				행렬도 있을 거예요. (웃음)</p> <p>크리스티앙: 아, 좋은 건 다 있네요. 그럼 놓칠 수 없죠.</p> <p>노혜리: 그럼요.</p>`,1),E=f(`<p class="help">The following conversation brings together <em>Liberation Space: Fortress/Nest</em> artist Hyeree Ro and Fellow Christian Nyampeta, whose <em>Scenes from a Revolution—</em>lino carvings from the project
 				“Gwangju Lessons”—is incorporated into <em>Bearing</em>. It took
 				place over Zoom in April 2026.</p> <p>HYEREE: Alright, yes. Where do we start? (laughter) So the
 				project I’m presenting for the Korean Pavilion is titled <em>Bearing.</em> And “to bear” as a verb has multiple meanings like, to endure weight
@@ -739,4 +757,4 @@ import{A as e,C as t,E as n,G as r,H as i,S as a,V as o,b as s,et as c,it as l,s
 				histories, and to have these conversations in the work,
 				together. That’s been very special. Thank you again.</p> <p>CHRISTIAN: Thank you so much for this space and time and
 				interest to think and dream together.</p> <p>HYEREE: We hope you can join us, for the opening. There will be
-				singing, there will be processions. (laughter)</p> <p>CHRISTIAN: Ah, all the good things. Not to be missed, then.</p> <p>HYEREE: Exactly.</p>`,1),k=f(`<!> <!>`,1),A=f(`<!> <!> <!>`,1);function j(c,u){let d=r(()=>u.data.locale);m(c,{children:(r,c)=>{var u=A(),f=o(u);h(f,{category:`fellowship`,author:r=>{var i=t(),c=o(i),l=e=>{a(e,n(`크리스티앙 니암페타 & 노혜리`))},u=e=>{a(e,n(`Christian Nyampeta & Hyeree Ro`))};s(c,t=>{e(d)===`ko`?t(l):t(u,-1)}),a(r,i)},$$slots:{author:!0}});var p=i(f,2);_(p,{children:(n,r)=>{var i=t(),c=o(i),u=e=>{var t=D();l(108),a(e,t)},f=e=>{var t=O();l(110),a(e,t)};s(c,t=>{e(d)===`ko`?t(u):t(f,-1)}),a(n,i)},$$slots:{default:!0}}),g(i(p,2),{children:(e,t)=>{var n=k(),r=o(n);C(r,{}),E(i(r,2),{}),a(e,n)},$$slots:{default:!0}}),a(r,u)},$$slots:{default:!0}})}export{j as component,y as universal};
+				singing, there will be processions. (laughter)</p> <p>CHRISTIAN: Ah, all the good things. Not to be missed, then.</p> <p>HYEREE: Exactly.</p>`,1),D=f(`<!> <!>`,1),O=f(`<!> <!> <!>`,1);function k(c,u){let d=r(()=>u.data.locale);m(c,{children:(r,c)=>{var u=O(),f=o(u);h(f,{category:`fellowship`,author:r=>{var i=t(),c=o(i),l=e=>{a(e,n(`크리스티앙 니암페타 & 노혜리`))},u=e=>{a(e,n(`Christian Nyampeta & Hyeree Ro`))};s(c,t=>{e(d)===`ko`?t(l):t(u,-1)}),a(r,i)},$$slots:{author:!0}});var p=i(f,2);_(p,{children:(n,r)=>{var i=t(),c=o(i),u=e=>{var t=T();l(108),a(e,t)},f=e=>{var t=E();l(110),a(e,t)};s(c,t=>{e(d)===`ko`?t(u):t(f,-1)}),a(n,i)},$$slots:{default:!0}}),g(i(p,2),{children:(e,t)=>{var n=D(),r=o(n);y(r,{}),w(i(r,2),{}),a(e,n)},$$slots:{default:!0}}),a(r,u)},$$slots:{default:!0}})}export{k as component,b as universal};
