@@ -1,4 +1,4 @@
-import{A as e,B as t,F as n,G as r,H as i,S as a,V as o,at as s,b as c,c as l,it as u,w as d}from"../chunks/D6YmX0lb.js";import"../chunks/BKyh3mbG.js";var f=``+new URL(`../assets/1.BW0smDgM.jpg`,import.meta.url).href,p=``+new URL(`../assets/2.Dr1fPwtQ.jpg`,import.meta.url).href,m=``+new URL(`../assets/3.vJmbBlc9.jpg`,import.meta.url).href,h=d(`<h5 class="svelte-1l3z0n5">Binna Choi</h5>`),g=d(`<h5 class="svelte-1l3z0n5">Binna Choi</h5> <p>Binna Choi brings two decades of experience working
+import{A as e,B as t,F as n,G as r,H as i,S as a,V as o,at as s,b as c,c as l,it as u,w as d}from"../chunks/D6YmX0lb.js";import"../chunks/BKyh3mbG.js";var f=``+new URL(`../assets/1.I11z-F5x.jpg`,import.meta.url).href,p=``+new URL(`../assets/2.Dr1fPwtQ.jpg`,import.meta.url).href,m=``+new URL(`../assets/3.vJmbBlc9.jpg`,import.meta.url).href,h=d(`<h5 class="svelte-1l3z0n5">Binna Choi</h5>`),g=d(`<h5 class="svelte-1l3z0n5">Binna Choi</h5> <p>Binna Choi brings two decades of experience working
 						internationally while sustaining deep connections to her
 						roots in the Korean cultural and socio-political
 						landscape. She has been at the forefront of shaping new
