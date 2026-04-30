@@ -1,8 +1,0 @@
-import{A as e,B as t,G as n,H as r,S as i,at as a,b as o,it as s,w as c}from"../chunks/D6YmX0lb.js";import"../chunks/BKyh3mbG.js";var l=c(`<p>All visitors are, in fact, potential Bearers of the Korean
-				Pavilion, activating and making use of the living monument to
-				“Liberation Space.” Those formally named and invited as Bearers
-				simply set the example, embodying a path through the space that
-				is punctuated with ritualistic moments.</p> <p>Selected via open call in spring of 2026, seven individual
-				Bearers will participate in Liberation Space: <em>Fortress/Nest</em> between May and November, each compiling a record of their experience
-				that will be included in <em>Liberation Space: Reader (2)</em>, forthcoming in March
-				2027.</p>`,1),u=c(`<header class="svelte-587yes">Bearers</header> <ul class="svelte-587yes"><li>Kieun Song</li> <li>Hoyeon Wang</li> <li>Jihyeon Yi</li> <li>Yeonjoo Kim</li> <li>Sangha Khym</li> <li>Kangsun Lee</li> <li>Daun Lim</li></ul>`,1),d=c(`<div class="container -narrow content"><div class="large-font p"><!></div> <div class="bearers small-font svelte-587yes"><!></div></div>`);function f(c,f){let p=n(()=>f.data.locale);var m=d(),h=t(m),g=t(h),_=e=>{},v=e=>{var t=l();s(2),i(e,t)};o(g,t=>{e(p)===`ko`?t(_):t(v,-1)}),a(h);var y=r(h,2),b=t(y),x=e=>{},S=e=>{var t=u();s(2),i(e,t)};o(b,t=>{e(p)===`ko`?t(x):t(S,-1)}),a(y),a(m),i(c,m)}export{f as component};
