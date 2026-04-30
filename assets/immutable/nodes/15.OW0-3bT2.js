@@ -1,4 +1,4 @@
-import{A as e,B as t,C as n,E as r,F as i,G as a,H as o,S as s,U as c,V as l,W as u,_ as d,a as f,at as p,b as m,c as h,d as g,et as _,h as v,it as y,l as b,ot as x,s as S,tt as C,u as w,v as T,w as E,x as D}from"../chunks/D6YmX0lb.js";import"../chunks/BKyh3mbG.js";import{t as O}from"../chunks/Djmo8edj.js";var k=E(`<div class="container inverted-color-scheme content svelte-aoneg4"><!></div>`);function A(e,n){var r=k();v(t(r),()=>n.children??x),p(r),s(e,r)}var j=E(`<div class="category svelte-7qh9hc"> </div>`),M=E(`<div class="title svelte-7qh9hc"><!></div>`),N=E(`<div class="subtitle svelte-7qh9hc"><!></div>`),P=E(`<div class="author svelte-7qh9hc"><!></div>`),F=E(`<header class="svelte-7qh9hc"><!> <!> <!> <!></header>`);function I(e,n){C(n,!0);var r=F(),a=t(r),c=e=>{var r=j(),a=t(r,!0);p(r),i(e=>D(a,e),[()=>O(n.category)]),s(e,r)};m(a,e=>{n.category&&e(c)});var l=o(a,2),u=e=>{var r=M();v(t(r),()=>n.title),p(r),s(e,r)};m(l,e=>{n.title&&e(u)});var d=o(l,2),f=e=>{var r=N();v(t(r),()=>n.subtitle),p(r),s(e,r)};m(d,e=>{n.subtitle&&e(f)});var h=o(d,2),g=e=>{var r=P();v(t(r),()=>n.author),p(r),s(e,r)};m(h,e=>{n.author&&e(g)}),p(r),s(e,r),_()}var L=E(`<div class="p"><!></div>`);function R(e,n){var r=L();v(t(r),()=>n.children??x),p(r),s(e,r)}var z=E(`<picture><img/></picture>`);function B(n,r){let a=f(r,`alt`,3,``),o=f(r,`flex`,3,!0),l=u(void 0);var d=z(),m=t(d);let g,_;S(m,e=>c(l,e),()=>e(l)),p(d),i(()=>{h(m,`src`,r.src),h(m,`alt`,a()),g=w(m,1,`svelte-1wvturc`,null,g,{"fixed-height":!o()}),_=b(m,``,_,{flex:o()&&e(l)?e(l).width/e(l).height:void 0,visibility:e(l)?void 0:`hidden`})}),s(n,d)}var V=E(`<figcaption><!></figcaption>`),H=E(`<figure class="svelte-t19zyr"><div><div class="items svelte-t19zyr"></div></div> <!></figure>`);function U(r,c){C(c,!0);let u=f(c,`type`,3,`same-height`),h=f(c,`srcs`,19,()=>[]);var y=n(),x=l(y),S=n=>{var r=H(),l=t(r),f=t(l);let _;d(f,21,h,T,(t,n)=>{{let r=a(()=>h().length>1);B(t,{get src(){return e(n)},get flex(){return e(r)}})}}),p(f),p(l);var y=o(l,2),x=e=>{var n=V();v(t(n),()=>c.children),p(n),s(e,n)};m(y,e=>{c.children&&e(x)}),p(r),i(()=>{w(l,1,g(u()),`svelte-t19zyr`),_=b(f,``,_,{"--count":h().length})}),s(n,r)};m(x,e=>{h().length>0&&e(S)}),s(r,y),_()}var W=E(`<ul class="svelte-1t7zwjt"><!></ul>`);function G(e,r){var i=n(),a=l(i),o=e=>{var n=W();v(t(n),()=>r.children),p(n),s(e,n)};m(a,e=>{r.children&&e(o)}),s(e,i)}var K=E(`<li><sup> </sup> <!></li>`);function q(e,r){var a=n(),c=l(a),u=e=>{var n=K(),a=t(n),c=t(a,!0);p(a),v(o(a,2),()=>r.children),p(n),i(()=>{h(n,`id`,`r${r.id}`),D(c,r.id)}),s(e,n)};m(c,e=>{r.children&&e(u)}),s(e,a)}var ee=``+new URL(`../assets/1a.DwDcsr8Q.jpg`,import.meta.url).href,te=``+new URL(`../assets/1b.DekAk83j.jpg`,import.meta.url).href,ne=``+new URL(`../assets/1c.BBIp1Ach.jpg`,import.meta.url).href,re=``+new URL(`../assets/2.DKoLzRnp.jpg`,import.meta.url).href,ie=``+new URL(`../assets/3a.DMfleJYH.jpg`,import.meta.url).href,ae=``+new URL(`../assets/3b.D5fF1gSw.jpg`,import.meta.url).href,oe=``+new URL(`../assets/4.DFAb460S.jpg`,import.meta.url).href,se=``+new URL(`../assets/5a.DCiLEpTf.jpg`,import.meta.url).href,ce=``+new URL(`../assets/5b.6m3OeKib.jpg`,import.meta.url).href,le=``+new URL(`../assets/5c.Cf3_Sfzq.jpg`,import.meta.url).href,ue=``+new URL(`../assets/6a.Dk04AL53.jpg`,import.meta.url).href,de=``+new URL(`../assets/6b.BOgu13dn.jpg`,import.meta.url).href,fe=``+new URL(`../assets/7.lxCcei2M.jpg`,import.meta.url).href,pe=``+new URL(`../assets/8.C08vAGRI.jpg`,import.meta.url).href,me=``+new URL(`../assets/9a.B8I0TObR.jpg`,import.meta.url).href,he=``+new URL(`../assets/9b.sytpCRHI.jpg`,import.meta.url).href,ge=``+new URL(`../assets/9c.C20PiJiE.jpg`,import.meta.url).href,_e=``+new URL(`../assets/10a.dlNafXg5.jpg`,import.meta.url).href,ve=``+new URL(`../assets/10b.ClRpD6zH.jpg`,import.meta.url).href,ye=``+new URL(`../assets/10c.Dvk4K5vn.jpg`,import.meta.url).href,J=E(`—A curatorial note on making <em>Liberation Space: Fortress/Nest</em>`,1),be=E(`<h5>살아 숨 쉬는 기념비</h5> <p>어떤 일들은 너무나 쉽게 과거의 것이 된다. 그러나 이를 생명력
+import{A as e,B as t,C as n,E as r,F as i,G as a,H as o,S as s,U as c,V as l,W as u,_ as d,a as f,at as p,b as m,c as h,d as g,et as _,h as v,it as y,l as b,s as x,tt as S,u as C,v as w,w as T}from"../chunks/D6YmX0lb.js";import"../chunks/BKyh3mbG.js";import{t as E}from"../chunks/DCuOq5f2.js";import{a as D,i as O,n as k,r as A,t as j}from"../chunks/CRXqbGXD.js";var M=T(`<picture><img/></picture>`);function N(n,r){S(r,!0);let o=f(r,`alt`,3,``),l=f(r,`flex`,3,!0),d=a(()=>E.data),m=a(()=>e(d).router),g=u(void 0);var v=M(),y=t(v);let w,T;x(y,e=>c(g,e),()=>e(g)),p(v),i(t=>{h(y,`src`,t),h(y,`alt`,o()),w=C(y,1,`svelte-1wvturc`,null,w,{"fixed-height":!l()}),T=b(y,``,T,{flex:l()&&e(g)?e(g).width/e(g).height:void 0,visibility:e(g)?void 0:`hidden`})},[()=>e(m).src(r.src)]),s(n,v),_()}var P=T(`<figcaption><!></figcaption>`),F=T(`<figure class="svelte-t19zyr"><div><div class="items svelte-t19zyr"></div></div> <!></figure>`);function I(r,c){S(c,!0);let u=f(c,`type`,3,`same-height`),h=f(c,`srcs`,19,()=>[]);var y=n(),x=l(y),T=n=>{var r=F(),l=t(r),f=t(l);let _;d(f,21,h,w,(t,n)=>{{let r=a(()=>h().length>1);N(t,{get src(){return e(n)},get flex(){return e(r)}})}}),p(f),p(l);var y=o(l,2),x=e=>{var n=P();v(t(n),()=>c.children),p(n),s(e,n)};m(y,e=>{c.children&&e(x)}),p(r),i(()=>{C(l,1,g(u()),`svelte-t19zyr`),_=b(f,``,_,{"--count":h().length})}),s(n,r)};m(x,e=>{h().length>0&&e(T)}),s(r,y),_()}var ee=``+new URL(`../assets/1a.DwDcsr8Q.jpg`,import.meta.url).href,te=``+new URL(`../assets/1b.DekAk83j.jpg`,import.meta.url).href,ne=``+new URL(`../assets/1c.BBIp1Ach.jpg`,import.meta.url).href,re=``+new URL(`../assets/2.DKoLzRnp.jpg`,import.meta.url).href,ie=``+new URL(`../assets/3a.DMfleJYH.jpg`,import.meta.url).href,ae=``+new URL(`../assets/3b.D5fF1gSw.jpg`,import.meta.url).href,oe=``+new URL(`../assets/4.DFAb460S.jpg`,import.meta.url).href,se=``+new URL(`../assets/5a.DCiLEpTf.jpg`,import.meta.url).href,ce=``+new URL(`../assets/5b.6m3OeKib.jpg`,import.meta.url).href,le=``+new URL(`../assets/5c.Cf3_Sfzq.jpg`,import.meta.url).href,ue=``+new URL(`../assets/6a.Dk04AL53.jpg`,import.meta.url).href,de=``+new URL(`../assets/6b.BOgu13dn.jpg`,import.meta.url).href,fe=``+new URL(`../assets/7.lxCcei2M.jpg`,import.meta.url).href,pe=``+new URL(`../assets/8.C08vAGRI.jpg`,import.meta.url).href,me=``+new URL(`../assets/9a.B8I0TObR.jpg`,import.meta.url).href,L=``+new URL(`../assets/9b.sytpCRHI.jpg`,import.meta.url).href,R=``+new URL(`../assets/9c.C20PiJiE.jpg`,import.meta.url).href,z=``+new URL(`../assets/10a.dlNafXg5.jpg`,import.meta.url).href,he=``+new URL(`../assets/10b.ClRpD6zH.jpg`,import.meta.url).href,ge=``+new URL(`../assets/10c.Dvk4K5vn.jpg`,import.meta.url).href,B=T(`—A curatorial note on making <em>Liberation Space: Fortress/Nest</em>`,1),_e=T(`<h5>살아 숨 쉬는 기념비</h5> <p>어떤 일들은 너무나 쉽게 과거의 것이 된다. 그러나 이를 생명력
 				있게, 가장 활기찬 상태로 유지하며 계속해서 진화할 수 있는 형태로
 				이끌어가는 것 또한 우리의 과업이다. 그렇지 않으면 시간은 하나의
 				선으로 납작해지고, 우리도 모르는 새 반복되는 과거가 망령처럼
@@ -8,7 +8,7 @@ import{A as e,B as t,C as n,E as r,F as i,G as a,H as o,S as s,U as c,V as l,W a
 				아니라, 주변과 내부, 그리고 통로를 따라 움직임이 가능토록 해야
 				한다.</p> <p>《해방공간: 요새와 둥지》는 베니스비엔날레 한국관을 살아있는
 				기념비로 재편하고 전용함으로써 ‘해방공간’이라는 발상을 품고
-				생동하게 한다.</p>`,1),xe=E(`<h5>A LIVING, BREATHING MONUMENT</h5> <p>Things become things of the past so easily. Yet it is also our
+				생동하게 한다.</p>`,1),ve=T(`<h5>A LIVING, BREATHING MONUMENT</h5> <p>Things become things of the past so easily. Yet it is also our
 				task to keep these things alive and at their most vital, in a
 				form that can continue to evolve. Otherwise, time flattens into
 				a line, and the past returns to haunt us, repeating itself
@@ -18,7 +18,7 @@ import{A as e,B as t,C as n,E as r,F as i,G as a,H as o,S as s,U as c,V as l,W a
 				around it, through it, and inside of it—rather than harden into
 				a phallic fetish as many existing monuments do.</p> <p><em>Liberation Space: Fortress/Nest</em> reshapes and repurposes the
 				Korean Pavilion of La Biennale di Venezia as such a living monument:
-				holding and animating the idea of a “liberation space.”</p>`,1),Se=E(`<p>이 발상에는 수많은 시작이 있다. 탄생 비화는 배후의 권력 구조를
+				holding and animating the idea of a “liberation space.”</p>`,1),ye=T(`<p>이 발상에는 수많은 시작이 있다. 탄생 비화는 배후의 권력 구조를
 				쉬이 은폐하고 우리는 이를 경계해야 하므로, 다수의 시작을
 				불러내도록 하자. 가장 최근의 시작점은 2024년 말부터 2025년
 				초까지 이어진 한국의 긴 겨울로 거슬러 올라간다. 당시 전국의
@@ -43,7 +43,7 @@ import{A as e,B as t,C as n,E as r,F as i,G as a,H as o,S as s,U as c,V as l,W a
 				국가의 분단을 통해 이를 배웠고, 그 분단은 오늘날까지 해결되지
 				않은 채 남아있다. 이처럼 완결 없는 종류의 투쟁과 성취를 위한
 				기념비가 필요하다는 것을, 그 긴 겨울의 대치 상황으로부터
-				인식하게 되는 것이다.</p>`),Ce=E(`<p>This idea has many beginnings, as so many do—we should always be
+				인식하게 되는 것이다.</p>`),be=T(`<p>This idea has many beginnings, as so many do—we should always be
 				wary of origin stories, as they often conceal the structures of
 				power that shape them. Its most recent beginning can be traced
 				back to a long winter in Korea, spanning the end of 2024 and the
@@ -75,7 +75,7 @@ import{A as e,B as t,C as n,E as r,F as i,G as a,H as o,S as s,U as c,V as l,W a
 				Korean war broke out and formally divided our nation—a division that
 				remains unresolved to this day. My recognition of the need for a monument
 				for this kind of struggle, and this kind of achievement that has no
-				ending, stems from the confrontations of that long winter.</p>`),we=E(`Unknown author - Nikolai Punin: <em>Tatlin (Protiv kubizma) [Татлин (Против кубизма)]</em>. Gosizdat, Petrograd 1921, p. <sup><a href="#r1">[1]</a></sup>`,1),Te=E(`<p>기념비의 필요성은 충분한 한편, 기념비가 어떤 형태를 취해야 하며
+				ending, stems from the confrontations of that long winter.</p>`),xe=T(`Unknown author - Nikolai Punin: <em>Tatlin (Protiv kubizma) [Татлин (Против кубизма)]</em>. Gosizdat, Petrograd 1921, p. <sup><a href="#r1">[1]</a></sup>`,1),Se=T(`<p>기념비의 필요성은 충분한 한편, 기념비가 어떤 형태를 취해야 하며
 				어떻게 기능해야 하는지는 여전히 미완의 과제로 남아 있다. 이름을
 				짓는 것 역시 하나의 과제다. 나의 초기 단초는 타틀린의
 				〈제3인터내셔널 기념비〉(1919-1920)부터 몇몇 불상에 이르기까지
@@ -93,7 +93,7 @@ import{A as e,B as t,C as n,E as r,F as i,G as a,H as o,S as s,U as c,V as l,W a
 				이른바 ‘키세스 시위대’ 가 서울 한남동 대통령 관저 앞에서 밤을
 				지새우는 모습이 많은 이들에게 감동을 주며 화제가 되었다.
 				대통령의 구속을 촉구하며, 이들은 영하의 기온과 폭설 속에서도
-				은색 알루미늄 보온 담요를 몸에 두른 채 자리를 지켰다.</p>`),Ee=E(`<p>While the need for a monument is sufficient, what form it should
+				은색 알루미늄 보온 담요를 몸에 두른 채 자리를 지켰다.</p>`),Ce=T(`<p>While the need for a monument is sufficient, what form it should
 				take, and how it should function, remains to be determined.
 				Naming it, too, is part of the task. My initial references range
 				from <em>Tatlin’s Tower</em> or <em>Monument for the Third International</em> (1919-1920) to a certain kind of Buddha statue. Never built, <em>Tatlin’s Tower</em> is especially compelling for its imagined use: a monument not meant
@@ -113,7 +113,7 @@ import{A as e,B as t,C as n,E as r,F as i,G as a,H as o,S as s,U as c,V as l,W a
 				Hannam-dong, Seoul touched many and went viral. Calling for his
 				arrest, these people held their ground despite freezing
 				temperatures and heavy snowfall, wrapping themselves in silver
-				foil thermal blankets to endure the conditions.</p>`),De=E(`<h5>LIBERATION SPACE / 해방공간</h5> <p>한국어로 ‘해방공간’이라는 표현은 일반적으로 한국이 일본 식민
+				foil thermal blankets to endure the conditions.</p>`),we=T(`<h5>LIBERATION SPACE / 해방공간</h5> <p>한국어로 ‘해방공간’이라는 표현은 일반적으로 한국이 일본 식민
 				지배에서 벗어난 1945년부터 대한민국 정부가 수립된 1948년 사이의
 				과도기를 일컫는다. 이 시기는 거의 40년에 달하는 점령 이후 찾아온
 				환희의 시기이기도 했지만, 더 정의롭고 공정한 사회, 그리고
@@ -126,7 +126,7 @@ import{A as e,B as t,C as n,E as r,F as i,G as a,H as o,S as s,U as c,V as l,W a
 				진정한 협력적 거버넌스가 탄생하기 위해서는 사람들 사이의 입장 및
 				사상차, 그리고 긴장이 조율되어야만 했다. 이분법적 대립으로
 				붕괴하거나 파편화되지 않고 세상에 새로운 것을 내놓기 위해서는
-				핵심적인 모순들을 견뎌내고 인내해야 했다.</p>`,1),Oe=E(`<h5>LIBERATION SPACE / HAEBANG GONGGAN / 해방공간</h5> <p>The expression “Liberation Space,” or <em>Haebang Gonggan</em> (해방공간)
+				핵심적인 모순들을 견뎌내고 인내해야 했다.</p>`,1),Te=T(`<h5>LIBERATION SPACE / HAEBANG GONGGAN / 해방공간</h5> <p>The expression “Liberation Space,” or <em>Haebang Gonggan</em> (해방공간)
 				in Korean, generally refers to the transitional period between 1945,
 				when Korea was freed from Japanese colonial rule, and 1948, when the
 				government of Korea—or more precisely, South Korea—was established.
@@ -144,8 +144,8 @@ import{A as e,B as t,C as n,E as r,F as i,G as a,H as o,S as s,U as c,V as l,W a
 				order for a true form of collective governance to be born. Core contradictions
 				had to be held, and endured, in order to bear something new into this
 				world without collapsing into binary opposition or scattering into
-				fragments.</p>`,1),ke=E(`YUN Suk-nam, <em>Portrait of Eo Yun-hee</em>, 2022. Color on <em>hanji</em> (Korean paper) 210 x 94cm, 2022. Courtesy of the artist
-			and Hakgojae Gallery.`,1),Ae=E(`<p>그러나 이 역사적 시기는 분단으로 결말을 맺는다. 미군정의 지원
+				fragments.</p>`,1),Ee=T(`YUN Suk-nam, <em>Portrait of Eo Yun-hee</em>, 2022. Color on <em>hanji</em> (Korean paper) 210 x 94cm, 2022. Courtesy of the artist
+			and Hakgojae Gallery.`,1),De=T(`<p>그러나 이 역사적 시기는 분단으로 결말을 맺는다. 미군정의 지원
 				아래 한반도 남쪽에 자유민주주의 정부가 수립되었다. 식민 정권을
 				대체한 이 반쪽짜리 정부는, 명분은 바꾸었을지언정 그 방식은
 				그대로 재현하며, 반공이라는 이름으로 자국 시민들을 숙청했다.
@@ -178,7 +178,7 @@ import{A as e,B as t,C as n,E as r,F as i,G as a,H as o,S as s,U as c,V as l,W a
 				의미에서 해방의 목적은 독립 국가의 수립이 아니다. 주권은 왕이나
 				국가에 있는 것이 아니라, 모든 불가능한 조건 속에서도 자기 내면에
 				세계를 짓고 허무는 실천을 하는 이들에게 있다. 어쩌면 이
-				해방적이고 주권적인 실천이야말로 “미칠 것 같이 아름답다.”<sup><a href="#r2">2</a></sup> 즉, 미학적 실천의 전형이 아닌가.</p>`,1),je=E(`<p>The actual outcome of this historical period, however, was
+				해방적이고 주권적인 실천이야말로 “미칠 것 같이 아름답다.”<sup><a href="#r2">2</a></sup> 즉, 미학적 실천의 전형이 아닌가.</p>`,1),Oe=T(`<p>The actual outcome of this historical period, however, was
 				division. A liberal democratic government in the southern half
 				of the peninsula was established, backed by the U.S. military
 				government. This halfformed government, replacing the colonial
@@ -221,7 +221,7 @@ import{A as e,B as t,C as n,E as r,F as i,G as a,H as o,S as s,U as c,V as l,W a
 				king nor in the state, but in those who practice building and
 				unbuilding a world within themselves, despite everything that
 				would make this impossible. And such liberatory, sovereign
-				practice might well be "maddeningly beautiful."<sup><a href="#r2">2</a></sup> An aesthetic practice par excellence.</p>`,1),Me=E(`<h5>요새와 둥지 (한국관)</h5> <p>해방공간이 지속적인 실천이듯, 매 순간은 해방공간에 서로 다른
+				practice might well be "maddeningly beautiful."<sup><a href="#r2">2</a></sup> An aesthetic practice par excellence.</p>`,1),ke=T(`<h5>요새와 둥지 (한국관)</h5> <p>해방공간이 지속적인 실천이듯, 매 순간은 해방공간에 서로 다른
 				형태를 부여한다. 1995년도 그러했다. 그해, 옛 제국주의 열강이
 				자신들의 국가관을 유지하며 세계에 존재감을 투사하는 장소인
 				자르디니 델라 비엔날레에 한국관이 세워졌다. 한국은 이곳에
@@ -239,7 +239,7 @@ import{A as e,B as t,C as n,E as r,F as i,G as a,H as o,S as s,U as c,V as l,W a
 				광주비엔날레가 개막하고 한국예술종합학교가 설립된 해이기도 하다.
 				1995년은 실제 ‘미술의 해’로 공식 지정되었다. 이러한 흐름이
 				맞물리며, 식민 이후 나라를 ‘재건하는 예술’은 더할 나위 없이
-				뚜렷해졌고, 그 가장 명백한 화신으로 한국관이 서 있다.</p>`,1),Ne=E(`<h5>FORTRESS/NEST (KOREAN PAVILION)</h5> <p>As “Liberation Space,” or <em>Haebang Gonggan</em>, is a
+				뚜렷해졌고, 그 가장 명백한 화신으로 한국관이 서 있다.</p>`,1),Ae=T(`<h5>FORTRESS/NEST (KOREAN PAVILION)</h5> <p>As “Liberation Space,” or <em>Haebang Gonggan</em>, is a
 				durational practice, each moment bestows it with a different
 				form. So it was in 1995, when the Korean Pavilion was built in
 				the Giardini della Biennale, a site where former imperial powers
@@ -267,7 +267,7 @@ import{A as e,B as t,C as n,E as r,F as i,G as a,H as o,S as s,U as c,V as l,W a
 				as the “Year of Art.” In this convergence, the “art of
 				rebuilding” the nation after the colonial period could hardly be
 				any more palpable; and the Korean Pavilion stands as one of its
-				clearest embodiments.</p>`,1),Pe=E(`<p>그리하여, 한국은 어떤 나라가 되었는가? 한국관은 그것을 반영하고
+				clearest embodiments.</p>`,1),je=T(`<p>그리하여, 한국은 어떤 나라가 되었는가? 한국관은 그것을 반영하고
 				있는가? 자르디니 내 여타 25개 국가관이나 일반적인 ‘국가적’
 				건물과 비교했을 때, 한국관의 형태는 확실히 독특하다. 90평도 되지
 				않는 한국관은 첫눈에 뚜렷한 성격을 드러내지 않는다. 원통형,
@@ -279,7 +279,7 @@ import{A as e,B as t,C as n,E as r,F as i,G as a,H as o,S as s,U as c,V as l,W a
 				훼손하지 않고, 라군을 가리지 않아야 한다는 세세한 제약의
 				불가피한 결과였다.[^3] 이런 의미에서 한국관의 형태는 주변 환경에
 				적응하려 한 분투의 발자취로 읽힐 수 있으며, 이는 한국의 지정학적
-				위치를 또 한 번 거울처럼 투영한다.</p>`),Fe=E(`<p>What kind of nation, then, has South Korea become? And does the
+				위치를 또 한 번 거울처럼 투영한다.</p>`),Me=T(`<p>What kind of nation, then, has South Korea become? And does the
 				Korean Pavilion reflect it? Compared to the other twenty-five
 				national pavilions of the Giardini—or, indeed, to other
 				representative “national” buildings—its form is certainly
@@ -295,7 +295,7 @@ import{A as e,B as t,C as n,E as r,F as i,G as a,H as o,S as s,U as c,V as l,W a
 				fit into the existing environment, leaving the surrounding trees
 				intact and the view of the lagoon unobstructed.<sup><a href="#r3">3</a></sup> In this sense, the very shape of the Korean Pavilion can be read
 				as the footprint of its struggle to fit in—an effort which, in turn,
-				mirrors the geopolitical position of South Korea.</p>`),Ie=E(`<p>기실 한국관은 숨겨져 있다고 봐도 무방하다. 일본관이나 독일관을
+				mirrors the geopolitical position of South Korea.</p>`),Ne=T(`<p>기실 한국관은 숨겨져 있다고 봐도 무방하다. 일본관이나 독일관을
 				방문한 후에야 비로소 발견할 수 있기 때문이다. 또한 일본관과
 				러시아관 사이의 좁은 골목을 지나야만 한국관으로 가는 길이
 				열린다. 곧장 이어지는 길도, 건물의 전경을 한눈에 담을 수 있는
@@ -310,7 +310,7 @@ import{A as e,B as t,C as n,E as r,F as i,G as a,H as o,S as s,U as c,V as l,W a
 				이 양가성이야말로 모든 국가에 질문을 던진다. 국가는 국민을 위해
 				무엇을 해야 하는가? ‘해방공간’ 역시 그 본질상 규정되지 않은
 				상태이다. 그러나 바로 이 개방성 덕에 요새와 둥지라는 두 조건을
-				모두 담아내고, 그럼으로써 앞으로 나아갈 방향을 설정할 수 있다.</p>`,1),Le=E(`<p>In fact, the Korean Pavilion is almost hidden; indeed, it can
+				모두 담아내고, 그럼으로써 앞으로 나아갈 방향을 설정할 수 있다.</p>`,1),Pe=T(`<p>In fact, the Korean Pavilion is almost hidden; indeed, it can
 				only be found after visiting either the Japan or German
 				pavilions. It is also a narrow alley between the Japan and
 				Russian pavilions that opens a path onto it. There is no direct
@@ -331,8 +331,8 @@ import{A as e,B as t,C as n,E as r,F as i,G as a,H as o,S as s,U as c,V as l,W a
 				meant to do for its people? “Liberation Space,” or <em>Haebang Gonggan</em>, is likewise indeterminate in its
 				nature. Yet it is precisely this openness that allows it to hold
 				both conditions—fortress and nest—and, in doing so, to orient a
-				direction forward.</p>`,1),Re=E(`Goeun Choi, Binna Choi, and Hyeree Ro celebrating the selection of <em>Liberation Space: Fortress/Nest</em> for the 2026 Korean Pavilion, May 6, 2025, Yongsan, Seoul. Photo courtesy
-			of the Korean Pavilion 2026`,1),ze=E(`<h5>베어링과 메르디앙</h5> <p><em>최고은과 노혜리, 두 작가는 한국관을 ‘해방공간’이라는 발상을
+				direction forward.</p>`,1),Fe=T(`Goeun Choi, Binna Choi, and Hyeree Ro celebrating the selection of <em>Liberation Space: Fortress/Nest</em> for the 2026 Korean Pavilion, May 6, 2025, Yongsan, Seoul. Photo courtesy
+			of the Korean Pavilion 2026`,1),Ie=T(`<h5>베어링과 메르디앙</h5> <p><em>최고은과 노혜리, 두 작가는 한국관을 ‘해방공간’이라는 발상을
 					위한 기념비로 재편하고 전용하려는 시도의 중심축을 이룬다.
 					우선 큐레토리얼 방향성이 프로젝트의 토대를 마련하고 일정한
 					예술적 방향성을 제시했다. 서로 공명하면서도 이질적인 언어를
@@ -358,7 +358,7 @@ import{A as e,B as t,C as n,E as r,F as i,G as a,H as o,S as s,U as c,V as l,W a
 				작가는 공간의 맥락을 읽어 내는 탁월한 감각과 함께 자신들이
 				발견한 사물의 물성에 있어 나란히 진실된 태도를 취하지만, 재료를
 				선택하고 그 재료를 변주하며 관계 맺는 방식에 있어서는 거의
-				정반대라고 할 수 있을 만큼 구별된다.</p>`,1),Be=E(`<h5>BEARING AND MERIDIAN</h5> <p>Goen Choi and Hyeree Ro are the two key collaborators in this
+				정반대라고 할 수 있을 만큼 구별된다.</p>`,1),Le=T(`<h5>BEARING AND MERIDIAN</h5> <p>Goen Choi and Hyeree Ro are the two key collaborators in this
 				endeavor to reshape and repurpose the Korean Pavilion as a
 				monument to the idea of a “liberation space.” The curatorial
 				direction laid the groundwork for the project and offered a
@@ -389,8 +389,8 @@ import{A as e,B as t,C as n,E as r,F as i,G as a,H as o,S as s,U as c,V as l,W a
 				objects they find, with a strong sense of spatial context, yet
 				diverge—almost moving in opposite directions—in their choice of
 				materials, and consequently in the ways they alter and relate to
-				them.</p>`,1),Ve=E(`Goen Choi, <em>Meridian</em> (work-in-progress), 2026. Photograph by Jongchul
-			Lee. Courtesy of the Korean Pavilion, 2026 Venice Biennale.`,1),He=E(`<p>최고은은 수도관이나 에어컨처럼 집안 공간을 구성하면서도 눈에
+				them.</p>`,1),Re=T(`Goen Choi, <em>Meridian</em> (work-in-progress), 2026. Photograph by Jongchul
+			Lee. Courtesy of the Korean Pavilion, 2026 Venice Biennale.`,1),ze=T(`<p>최고은은 수도관이나 에어컨처럼 집안 공간을 구성하면서도 눈에
 				보이지 않는 인프라를 이루는 금속 사물들을 주로 다루며, 이를 통해
 				새로운 방식의 가시성을 창출하는 데 관심을 둔다. 사물을 자르고
 				구부리며 주어진 맥락 안에 배치 혹은 배열하고, 이를 통해 안과 밖,
@@ -442,7 +442,7 @@ import{A as e,B as t,C as n,E as r,F as i,G as a,H as o,S as s,U as c,V as l,W a
 				견디다, 버티다, 관계를 맺다, 안내하다, 탄생시키다, 산출하다 등
 				여러 상호 연관된 의미를 담고 있다. 〈베어링〉이 ‘해방공간’의
 				실천을 위한 지지체로 한국관을 치환한다면, 〈메르디앙〉은 그
-				실천이 가능해지도록 하는 조건을 설정한다.</p>`,1),Ue=E(`<p>Goen Choi often works with metal objects that make up the
+				실천이 가능해지도록 하는 조건을 설정한다.</p>`,1),Be=T(`<p>Goen Choi often works with metal objects that make up the
 				domestic sphere, especially in terms of its invisible
 				infrastructures, such as water pipes and air conditioners—with
 				an interest in creating new forms of visibility. She cuts
@@ -507,8 +507,8 @@ import{A as e,B as t,C as n,E as r,F as i,G as a,H as o,S as s,U as c,V as l,W a
 				Through its membrane and stations, <em>Bearing</em> renders the
 				Korean Pavilion as a set of support structures for practicing a
 				“liberation space,” while <em>Meridian</em> establishes the conditions
-				that make such practice possible.</p>`,1),We=E(`Hyeree Ro, <em>Bearing</em> (work-in-progress), 2026. Photograph by Hyunjung
-			Rhee. Courtesy of the Korean Pavilion, 2026 Venice Biennale.`,1),Ge=E(`<p>노혜리의 작업은 큐레이터와 예술가 사이의 협업이 가장 집약적으로
+				that make such practice possible.</p>`,1),Ve=T(`Hyeree Ro, <em>Bearing</em> (work-in-progress), 2026. Photograph by Hyunjung
+			Rhee. Courtesy of the Korean Pavilion, 2026 Venice Biennale.`,1),He=T(`<p>노혜리의 작업은 큐레이터와 예술가 사이의 협업이 가장 집약적으로
 				일어난 지점이기도 하다. 형태의 물성과 물리적 실체에 엄격하게
 				결부된 최고은의 언어와 달리, 노혜리의 실천은 발화 행위와
 				(탈)제도화의 실천이 개입되는 수행적 측면을 아우른다. 살아 숨
@@ -663,7 +663,7 @@ import{A as e,B as t,C as n,E as r,F as i,G as a,H as o,S as s,U as c,V as l,W a
 				인정하며, 이를 통해 지도부를 향한 표적 공격으로부터 집단을
 				보호하는 역할을 했다. 여기에서 사발통문 모티프는 하나의 빛줄기로
 				진화한다. 그것은 끊임없이 확장되고 연결되는 관계들 속에서
-				가능해진, 어둠 속을 밝히는 희망의 등불, 바로 ‘해방공간’이다.</p>`,1),Ke=E(`<p>Hyeree’s work is also where the curatorial and artistic
+				가능해진, 어둠 속을 밝히는 희망의 등불, 바로 ‘해방공간’이다.</p>`,1),Ue=T(`<p>Hyeree’s work is also where the curatorial and artistic
 				collaboration took place most intensively. Unlike Goen’s work,
 				whose language is quite strictly tied to the materiality and
 				physicality of form, Hyeree’s practice encompasses an aspect of
@@ -853,8 +853,8 @@ import{A as e,B as t,C as n,E as r,F as i,G as a,H as o,S as s,U as c,V as l,W a
 				without hierarchical order, thereby also protecting the group from
 				targeted attacks on its leadership. Here, this <em>sabaltongmun</em> motif evolves into a beam of light: a beacon of hope shining in the
 				darkness, made possible by these ever-extending and connecting relationships
-				in movement—that is, <em>Haebang Gonggan,</em> or “Liberation Space.”</p>`,1),qe=E(`<!> <!> <!> <!> <!> <!> <!> <!> <!> <!> <!> <!> <!> <!> <!> <!> <!> <!> <!> <!> <!>`,1),Y=E(`Kornel Chang, <em>A Fractured Libration: Korea under US Occupation</em> (Harvard University Press, 2025), 10. might well be “maddeningly beautiful.”
-				An aesthetic practice par excellence.`,1),X=E(`“Only four years after liberation… the intensity, upheaval,
+				in movement—that is, <em>Haebang Gonggan,</em> or “Liberation Space.”</p>`,1),We=T(`<!> <!> <!> <!> <!> <!> <!> <!> <!> <!> <!> <!> <!> <!> <!> <!> <!> <!> <!> <!> <!>`,1),V=T(`Kornel Chang, <em>A Fractured Libration: Korea under US Occupation</em> (Harvard University Press, 2025), 10. might well be “maddeningly beautiful.”
+				An aesthetic practice par excellence.`,1),H=T(`“Only four years after liberation… the intensity, upheaval,
 				fervor, tension, and anxiety of the liberation space had already
 				vanished from the face of Seoul, Republic of Korea…. And yet,
 				because there were still those, in some afflicted corner of the
@@ -863,33 +863,33 @@ import{A as e,B as t,C as n,E as r,F as i,G as a,H as o,S as s,U as c,V as l,W a
 				must once again speak of the strength of Seoul in that
 				liberation space—not its stench as a city, but the radiant and
 				beautiful time of liberation itself.” —Lee Im-ha, <em>Liberation Space: The History of Women Who Transformed
-					Everyday Life</em> (Cheolsu and Younghee, 2015), 17–18.`,1),Z=E(`Extensive research on this subject was conducted by the Curating
+					Everyday Life</em> (Cheolsu and Younghee, 2015), 17–18.`,1),U=T(`Extensive research on this subject was conducted by the Curating
 				Architecture Collective (CAC), curators of the Korean Pavilion
 				at the 2025 Venice Biennale of Architecture. See the exhibition
-				catalogue <em>Little Toad, Little Toad: Unbuilding Pavilion</em>.`,1),Q=E(`Jamaica Heolimelekalani Osorio, “E Mau Ke Ea: Sovereignty,
-				Sanctuary, and Collective Liberation,” <em>Native American and Indigenous Studies</em> 12, no. 1 (Spring 2025): 124–138.`,1),$=E(`이 목소리를 포함하여, 최근 한국의 집회 문화를 상징하는 여러 자유
+				catalogue <em>Little Toad, Little Toad: Unbuilding Pavilion</em>.`,1),W=T(`Jamaica Heolimelekalani Osorio, “E Mau Ke Ea: Sovereignty,
+				Sanctuary, and Collective Liberation,” <em>Native American and Indigenous Studies</em> 12, no. 1 (Spring 2025): 124–138.`,1),G=T(`이 목소리를 포함하여, 최근 한국의 집회 문화를 상징하는 여러 자유
 				발언들은 이지완에 의해 기록 및 필사되어 『말빛』이라는 제목으로
 				온라인에 무상 배포되었다. 전체 텍스트가 담긴 PDF 파일은 다음
-				링크에서 확인할 수 있다: <a href="https://drive.google.com/file/d/1UNzIKZAn6kuQS6m84NgnOkutYoNl6viq/view" target="_blank">https://drive.google.com/file/d/1UNzIKZAn6kuQS6m84NgnOkutYoNl6viq/view</a>.`,1),Je=E(`Voices from free speeches that have come to define recent
+				링크에서 확인할 수 있다: <a href="https://drive.google.com/file/d/1UNzIKZAn6kuQS6m84NgnOkutYoNl6viq/view" target="_blank">https://drive.google.com/file/d/1UNzIKZAn6kuQS6m84NgnOkutYoNl6viq/view</a>.`,1),K=T(`Voices from free speeches that have come to define recent
 				protest culture in Korea have been recorded, transcribed, and
 				freely distributed online by Jiwan Lee (이지완) under the title <em>Malbit</em> (말빛, meaning “Words of Light”). A pdf of the full text is available
-				at: <a href="https://drive.google.com/file/d/1UNzIKZAn6kuQS6m84NgnOkutYoNl6viq/view" target="_blank">https://drive.google.com/file/d/1UNzIKZAn6kuQS6m84NgnOkutYoNl6viq/view</a>`,1),Ye=E(`<!> <!> <!> <!> <!>`,1),Xe=E(`<!> <!> <!>`,1);function Ze(t,i){let c=a(()=>i.data.locale);A(t,{children:(t,i)=>{var u=Xe(),d=l(u);I(d,{category:`monument`,title:t=>{var i=n(),a=l(i),o=e=>{s(e,r(`도대체 어떻게 이 나라를 사랑하지?`))},u=e=>{s(e,r(`How can I ever possibly love this country?`))};m(a,t=>{e(c)===`ko`?t(o):t(u,-1)}),s(t,i)},subtitle:t=>{var i=n(),a=l(i),o=e=>{s(e,r(`-《해방공간: 요새와 둥지》를 만들며, 큐레이터의 노트`))},u=e=>{var t=J();y(),s(e,t)};m(a,t=>{e(c)===`ko`?t(o):t(u,-1)}),s(t,i)},author:t=>{var i=n(),a=l(i),o=e=>{s(e,r(`최빛나`))},u=e=>{s(e,r(`Binna Choi`))};m(a,t=>{e(c)===`ko`?t(o):t(u,-1)}),s(t,i)},$$slots:{title:!0,subtitle:!0,author:!0}});var f=o(d,2);R(f,{children:(t,n)=>{var i=qe(),u=l(i),d=e=>{var t=be();y(4),s(e,t)},f=e=>{var t=xe();y(4),s(e,t)};m(u,t=>{e(c)===`ko`?t(d):t(f,-1)});var p=o(u,2);{let t=a(()=>[ee,te,ne]);U(p,{get srcs(){return e(t)},children:(e,t)=>{y(),s(e,r(`Yezoi Hwang, scenes from the National Assembly on the night of the
+				at: <a href="https://drive.google.com/file/d/1UNzIKZAn6kuQS6m84NgnOkutYoNl6viq/view" target="_blank">https://drive.google.com/file/d/1UNzIKZAn6kuQS6m84NgnOkutYoNl6viq/view</a>`,1),q=T(`<!> <!> <!> <!> <!>`,1),J=T(`<!> <!> <!>`,1);function Y(t,i){let c=a(()=>i.data.locale);D(t,{children:(t,i)=>{var u=J(),d=l(u);O(d,{category:`monument`,title:t=>{var i=n(),a=l(i),o=e=>{s(e,r(`도대체 어떻게 이 나라를 사랑하지?`))},u=e=>{s(e,r(`How can I ever possibly love this country?`))};m(a,t=>{e(c)===`ko`?t(o):t(u,-1)}),s(t,i)},subtitle:t=>{var i=n(),a=l(i),o=e=>{s(e,r(`-《해방공간: 요새와 둥지》를 만들며, 큐레이터의 노트`))},u=e=>{var t=B();y(),s(e,t)};m(a,t=>{e(c)===`ko`?t(o):t(u,-1)}),s(t,i)},author:t=>{var i=n(),a=l(i),o=e=>{s(e,r(`최빛나`))},u=e=>{s(e,r(`Binna Choi`))};m(a,t=>{e(c)===`ko`?t(o):t(u,-1)}),s(t,i)},$$slots:{title:!0,subtitle:!0,author:!0}});var f=o(d,2);A(f,{children:(t,n)=>{var i=We(),u=l(i),d=e=>{var t=_e();y(4),s(e,t)},f=e=>{var t=ve();y(4),s(e,t)};m(u,t=>{e(c)===`ko`?t(d):t(f,-1)});var p=o(u,2);{let t=a(()=>[ee,te,ne]);I(p,{get srcs(){return e(t)},children:(e,t)=>{y(),s(e,r(`Yezoi Hwang, scenes from the National Assembly on the night of the
 			declaration of martial law, December 3, 2024, Seoul. Photo courtesy
-			of Yezoi Hwang.`))},$$slots:{default:!0}})}var h=o(p,2),g=e=>{s(e,Se())},_=e=>{s(e,Ce())};m(h,t=>{e(c)===`ko`?t(g):t(_,-1)});var v=o(h,2);{let t=a(()=>[re]);U(v,{get srcs(){return e(t)},children:(e,t)=>{y();var n=we();y(3),s(e,n)},$$slots:{default:!0}})}var b=o(v,2),x=e=>{s(e,Te())},S=e=>{s(e,Ee())};m(b,t=>{e(c)===`ko`?t(x):t(S,-1)});var C=o(b,2);{let t=a(()=>[ie,ae]);U(C,{get srcs(){return e(t)},children:(e,t)=>{y(),s(e,r(`Yezoi Hwang, scenes from the impeachment protests, January 4, 2025,
-			Seoul. Photo courtesy of Yezoi Hwang.`))},$$slots:{default:!0}})}var w=o(C,2),T=e=>{var t=De();y(2),s(e,t)},E=e=>{var t=Oe();y(2),s(e,t)};m(w,t=>{e(c)===`ko`?t(T):t(E,-1)});var D=o(w,2);{let t=a(()=>[oe]);U(D,{get srcs(){return e(t)},children:(e,t)=>{y();var n=ke();y(4),s(e,n)},$$slots:{default:!0}})}var O=o(D,2),k=e=>{var t=Ae();y(4),s(e,t)},A=e=>{var t=je();y(4),s(e,t)};m(O,t=>{e(c)===`ko`?t(k):t(A,-1)});var j=o(O,2);{let t=a(()=>[se,ce,le]);U(j,{get srcs(){return e(t)},children:(e,t)=>{y(),s(e,r(`The Korean Pavilion in 1995 and 2025. Photos courtesy of Arts
-			Council Korea.`))},$$slots:{default:!0}})}var M=o(j,2),N=e=>{var t=Me();y(4),s(e,t)},P=e=>{var t=Ne();y(4),s(e,t)};m(M,t=>{e(c)===`ko`?t(N):t(P,-1)});var F=o(M,2);{let t=a(()=>[ue,de]);U(F,{get srcs(){return e(t)},children:(e,t)=>{y(),s(e,r(`Demolition of the former Japanese Government-General Building,
+			of Yezoi Hwang.`))},$$slots:{default:!0}})}var h=o(p,2),g=e=>{s(e,ye())},_=e=>{s(e,be())};m(h,t=>{e(c)===`ko`?t(g):t(_,-1)});var v=o(h,2);{let t=a(()=>[re]);I(v,{get srcs(){return e(t)},children:(e,t)=>{y();var n=xe();y(3),s(e,n)},$$slots:{default:!0}})}var b=o(v,2),x=e=>{s(e,Se())},S=e=>{s(e,Ce())};m(b,t=>{e(c)===`ko`?t(x):t(S,-1)});var C=o(b,2);{let t=a(()=>[ie,ae]);I(C,{get srcs(){return e(t)},children:(e,t)=>{y(),s(e,r(`Yezoi Hwang, scenes from the impeachment protests, January 4, 2025,
+			Seoul. Photo courtesy of Yezoi Hwang.`))},$$slots:{default:!0}})}var w=o(C,2),T=e=>{var t=we();y(2),s(e,t)},E=e=>{var t=Te();y(2),s(e,t)};m(w,t=>{e(c)===`ko`?t(T):t(E,-1)});var D=o(w,2);{let t=a(()=>[oe]);I(D,{get srcs(){return e(t)},children:(e,t)=>{y();var n=Ee();y(4),s(e,n)},$$slots:{default:!0}})}var O=o(D,2),k=e=>{var t=De();y(4),s(e,t)},A=e=>{var t=Oe();y(4),s(e,t)};m(O,t=>{e(c)===`ko`?t(k):t(A,-1)});var j=o(O,2);{let t=a(()=>[se,ce,le]);I(j,{get srcs(){return e(t)},children:(e,t)=>{y(),s(e,r(`The Korean Pavilion in 1995 and 2025. Photos courtesy of Arts
+			Council Korea.`))},$$slots:{default:!0}})}var M=o(j,2),N=e=>{var t=ke();y(4),s(e,t)},P=e=>{var t=Ae();y(4),s(e,t)};m(M,t=>{e(c)===`ko`?t(N):t(P,-1)});var F=o(M,2);{let t=a(()=>[ue,de]);I(F,{get srcs(){return e(t)},children:(e,t)=>{y(),s(e,r(`Demolition of the former Japanese Government-General Building,
 			1995–1996. Photographs, October 28, 1996. Courtesy of the Ministry
-			of Culture, Sports and Tourism of the Republic of Korea.`))},$$slots:{default:!0}})}var I=o(F,2),L=e=>{s(e,Pe())},R=e=>{s(e,Fe())};m(I,t=>{e(c)===`ko`?t(L):t(R,-1)});var z=o(I,2);{let t=a(()=>[fe]);U(z,{get srcs(){return e(t)},children:(e,t)=>{y(),s(e,r(`The Korean Pavilion’s location in the Giardini. Image courtesy of
-			Venice Biennale Foundation.`))},$$slots:{default:!0}})}var B=o(z,2),V=e=>{var t=Ie();y(2),s(e,t)},H=e=>{var t=Le();y(2),s(e,t)};m(B,t=>{e(c)===`ko`?t(V):t(H,-1)});var W=o(B,2);{let t=a(()=>[pe]);U(W,{get srcs(){return e(t)},children:(e,t)=>{y();var n=Re();y(2),s(e,n)},$$slots:{default:!0}})}var G=o(W,2),K=e=>{var t=ze();y(6),s(e,t)},q=e=>{var t=Be();y(6),s(e,t)};m(G,t=>{e(c)===`ko`?t(K):t(q,-1)});var J=o(G,2);{let t=a(()=>[me,he,ge]);U(J,{get srcs(){return e(t)},children:(e,t)=>{y();var n=Ve();y(2),s(e,n)},$$slots:{default:!0}})}var Y=o(J,2),X=e=>{var t=He();y(6),s(e,t)},Z=e=>{var t=Ue();y(6),s(e,t)};m(Y,t=>{e(c)===`ko`?t(X):t(Z,-1)});var Q=o(Y,2);{let t=a(()=>[_e,ve,ye]);U(Q,{get srcs(){return e(t)},children:(e,t)=>{y();var n=We();y(2),s(e,n)},$$slots:{default:!0}})}var $=o(Q,2),Je=e=>{var t=Ge();y(40),s(e,t)},Ye=e=>{var t=Ke();y(40),s(e,t)};m($,t=>{e(c)===`ko`?t(Je):t(Ye,-1)}),s(t,i)},$$slots:{default:!0}}),G(o(f,2),{children:(t,i)=>{var a=Ye(),u=l(a);q(u,{id:1,children:(t,i)=>{var a=n(),o=l(a),u=e=>{s(e,r(`코넬 장, 『균열된 해방: 미군정 아래 한국』(하버드대 출판부,
-				2025년), 10쪽.`))},d=e=>{var t=Y();y(2),s(e,t)};m(o,t=>{e(c)===`ko`?t(u):t(d,-1)}),s(t,a)},$$slots:{default:!0}});var d=o(u,2);q(d,{id:2,children:(t,i)=>{var a=n(),o=l(a),u=e=>{s(e,r(`“해방 4년 만에…해방공간의 격정, 흥분, 열광, 긴장, 불안 따위가
+			of Culture, Sports and Tourism of the Republic of Korea.`))},$$slots:{default:!0}})}var B=o(F,2),V=e=>{s(e,je())},H=e=>{s(e,Me())};m(B,t=>{e(c)===`ko`?t(V):t(H,-1)});var U=o(B,2);{let t=a(()=>[fe]);I(U,{get srcs(){return e(t)},children:(e,t)=>{y(),s(e,r(`The Korean Pavilion’s location in the Giardini. Image courtesy of
+			Venice Biennale Foundation.`))},$$slots:{default:!0}})}var W=o(U,2),G=e=>{var t=Ne();y(2),s(e,t)},K=e=>{var t=Pe();y(2),s(e,t)};m(W,t=>{e(c)===`ko`?t(G):t(K,-1)});var q=o(W,2);{let t=a(()=>[pe]);I(q,{get srcs(){return e(t)},children:(e,t)=>{y();var n=Fe();y(2),s(e,n)},$$slots:{default:!0}})}var J=o(q,2),Y=e=>{var t=Ie();y(6),s(e,t)},Ge=e=>{var t=Le();y(6),s(e,t)};m(J,t=>{e(c)===`ko`?t(Y):t(Ge,-1)});var X=o(J,2);{let t=a(()=>[me,L,R]);I(X,{get srcs(){return e(t)},children:(e,t)=>{y();var n=Re();y(2),s(e,n)},$$slots:{default:!0}})}var Z=o(X,2),Q=e=>{var t=ze();y(6),s(e,t)},Ke=e=>{var t=Be();y(6),s(e,t)};m(Z,t=>{e(c)===`ko`?t(Q):t(Ke,-1)});var $=o(Z,2);{let t=a(()=>[z,he,ge]);I($,{get srcs(){return e(t)},children:(e,t)=>{y();var n=Ve();y(2),s(e,n)},$$slots:{default:!0}})}var qe=o($,2),Je=e=>{var t=He();y(40),s(e,t)},Ye=e=>{var t=Ue();y(40),s(e,t)};m(qe,t=>{e(c)===`ko`?t(Je):t(Ye,-1)}),s(t,i)},$$slots:{default:!0}}),k(o(f,2),{children:(t,i)=>{var a=q(),u=l(a);j(u,{id:1,children:(t,i)=>{var a=n(),o=l(a),u=e=>{s(e,r(`코넬 장, 『균열된 해방: 미군정 아래 한국』(하버드대 출판부,
+				2025년), 10쪽.`))},d=e=>{var t=V();y(2),s(e,t)};m(o,t=>{e(c)===`ko`?t(u):t(d,-1)}),s(t,a)},$$slots:{default:!0}});var d=o(u,2);j(d,{id:2,children:(t,i)=>{var a=n(),o=l(a),u=e=>{s(e,r(`“해방 4년 만에…해방공간의 격정, 흥분, 열광, 긴장, 불안 따위가
 				사라져 버린 대한민국 서울의 모습이다. \\[…\\] 그렇지만 병든 서울의
 				한 곳에 새 나라를 세우려는 사람들이 있었기에 오장환은 ‘미칠 것
 				같이 아름답다.’라고 했다. \\[…\\] 도시의 악취가 아닌 해방공간
 				서울의 힘을, 다시금 해방공간의 찬란하고 아름다운 시간을 읊어야
 				하는 이유도 여기에 있다.” 이임하, 『해방공간, 일상을 바꾼
-				여성들의 역사』(철수와 영희, 2015년), 17-18쪽.`))},d=e=>{var t=X();y(2),s(e,t)};m(o,t=>{e(c)===`ko`?t(u):t(d,-1)}),s(t,a)},$$slots:{default:!0}});var f=o(d,2);q(f,{id:3,children:(t,i)=>{var a=n(),o=l(a),u=e=>{s(e,r(`해당 주제에 관한 광범위한 연구는 2025년 베니스비엔날레 건축전
+				여성들의 역사』(철수와 영희, 2015년), 17-18쪽.`))},d=e=>{var t=H();y(2),s(e,t)};m(o,t=>{e(c)===`ko`?t(u):t(d,-1)}),s(t,a)},$$slots:{default:!0}});var f=o(d,2);j(f,{id:3,children:(t,i)=>{var a=n(),o=l(a),u=e=>{s(e,r(`해당 주제에 관한 광범위한 연구는 2025년 베니스비엔날레 건축전
 				한국관의 큐레이터인 ‘CAC(Curating Architecture Collective)’에
 				의해 수행되었다. 전시도록인 『두껍아 두껍아: 집의 시간』을
-				참고하라.`))},d=e=>{var t=Z();y(2),s(e,t)};m(o,t=>{e(c)===`ko`?t(u):t(d,-1)}),s(t,a)},$$slots:{default:!0}});var p=o(f,2);q(p,{id:4,children:(t,i)=>{var a=n(),o=l(a),u=e=>{s(e,r(`자메이카 헤올리멜레칼라니 오소리오, 『E Mau Ke Ea: 주권, 성역,
+				참고하라.`))},d=e=>{var t=U();y(2),s(e,t)};m(o,t=>{e(c)===`ko`?t(u):t(d,-1)}),s(t,a)},$$slots:{default:!0}});var p=o(f,2);j(p,{id:4,children:(t,i)=>{var a=n(),o=l(a),u=e=>{s(e,r(`자메이카 헤올리멜레칼라니 오소리오, 『E Mau Ke Ea: 주권, 성역,
 				공동체 해방』, 아메리카 원주민 및 토착민 연구 12, 제1호 (2025년
-				봄): 124-138쪽.`))},d=e=>{var t=Q();y(2),s(e,t)};m(o,t=>{e(c)===`ko`?t(u):t(d,-1)}),s(t,a)},$$slots:{default:!0}}),q(o(p,2),{id:5,children:(t,r)=>{var i=n(),a=l(i),o=e=>{var t=$();y(2),s(e,t)},u=e=>{var t=Je();y(3),s(e,t)};m(a,t=>{e(c)===`ko`?t(o):t(u,-1)}),s(t,i)},$$slots:{default:!0}}),s(t,a)},$$slots:{default:!0}}),s(t,u)},$$slots:{default:!0}})}export{Ze as component};
+				봄): 124-138쪽.`))},d=e=>{var t=W();y(2),s(e,t)};m(o,t=>{e(c)===`ko`?t(u):t(d,-1)}),s(t,a)},$$slots:{default:!0}}),j(o(p,2),{id:5,children:(t,r)=>{var i=n(),a=l(i),o=e=>{var t=G();y(2),s(e,t)},u=e=>{var t=K();y(3),s(e,t)};m(a,t=>{e(c)===`ko`?t(o):t(u,-1)}),s(t,i)},$$slots:{default:!0}}),s(t,a)},$$slots:{default:!0}}),s(t,u)},$$slots:{default:!0}})}export{Y as component};
