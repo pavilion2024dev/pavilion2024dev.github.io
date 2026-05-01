@@ -1,4 +1,4 @@
-import{A as e,C as t,E as n,G as r,S as i,V as a,b as o,et as s,tt as c,w as l}from"./D6YmX0lb.js";import"./BKyh3mbG.js";import{t as u}from"./BCcdWp7K.js";import{t as d}from"./BMk9Znx4.js";var f=l(`<p>작가이자 싱어송라이터인 이랑은 오랜 시간 한국 사회의 주변부와 균열의
+import{A as e,C as t,E as n,G as r,S as i,V as a,b as o,et as s,tt as c,w as l}from"./D6YmX0lb.js";import"./BKyh3mbG.js";import{t as u}from"./Dxsu-o48.js";import{t as d}from"./JDIJtsgJ.js";var f=l(`<p>작가이자 싱어송라이터인 이랑은 오랜 시간 한국 사회의 주변부와 균열의
 			지점을 노래와 언어로 드러내며, 제도와 권력 바깥에서 형성되는 감정과
 			목소리에 주목해 온 인물이다. 그의 작업은 대중음악이라는 형식을
 			취하면서도, 노동, 젠더, 불평등, 연대와 같은 사회적 현실을 개인의

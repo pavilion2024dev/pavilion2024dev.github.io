@@ -1,4 +1,4 @@
-import{A as e,C as t,E as n,G as r,H as i,S as a,V as o,b as s,et as c,it as l,st as u,tt as d,w as f}from"../chunks/D6YmX0lb.js";import"../chunks/BKyh3mbG.js";import{t as p}from"../chunks/BCcdWp7K.js";import{a as m,i as h,n as g,r as _,t as v}from"../chunks/BMk9Znx4.js";import{t as y}from"../chunks/ifpYufmT.js";var b=u({load:()=>x}),x=async({parent:e})=>({backToList:`/reader`,title:(await e()).locale===`ko`?`대담: 안무, 결합, 연대`:`Choreography, Conjugation, Coalition: A Dialogue`}),S=f(`<p>노혜리는 사물과 몸의 관계를 매개로 언어를 탐구하는 퍼포먼스 작업을
+import{A as e,C as t,E as n,G as r,H as i,S as a,V as o,b as s,et as c,it as l,st as u,tt as d,w as f}from"../chunks/D6YmX0lb.js";import"../chunks/BKyh3mbG.js";import{t as p}from"../chunks/Dxsu-o48.js";import{a as m,i as h,n as g,r as _,t as v}from"../chunks/JDIJtsgJ.js";import{t as y}from"../chunks/CG8mJ6sO.js";var b=u({load:()=>x}),x=async({parent:e})=>({backToList:`/reader`,title:(await e()).locale===`ko`?`대담: 안무, 결합, 연대`:`Choreography, Conjugation, Coalition: A Dialogue`}),S=f(`<p>노혜리는 사물과 몸의 관계를 매개로 언어를 탐구하는 퍼포먼스 작업을
 			이어오고 있다. 쉽게 규정되지 않는 상태와 감각에 주목하며,
 			사물–몸–말을 연결하는 수행적 실천을 통해 사적 경험과 정서, 기억,
 			장소, 도시, 언어, 움직임, 이야기 등 다양한 층위의 서사가 형성되는
