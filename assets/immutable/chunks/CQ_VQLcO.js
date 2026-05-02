@@ -1,1 +1,0 @@
-import{B as e,F as t,S as n,at as r,c as i,w as a,x as o}from"./D6YmX0lb.js";import"./BKyh3mbG.js";var s=a(`<sup><a> </a></sup>`);function c(a,c){var l=s(),u=e(l),d=e(u,!0);r(u),r(l),t(()=>{i(u,`href`,`#r${c.n??``}`),o(d,c.n)}),n(a,l)}export{c as t};

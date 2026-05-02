@@ -1,1 +1,0 @@
-import{S as e,w as t}from"../chunks/D6YmX0lb.js";import"../chunks/BKyh3mbG.js";import"../chunks/DqWwgNY-.js";var n=t(`<div class="error svelte-bo9uhu">Coming soon</div>`);function r(t){e(t,n())}function i(e){r(e,{})}export{i as component};

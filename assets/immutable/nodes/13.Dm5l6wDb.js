@@ -1,0 +1,14 @@
+import{A as e,C as t,E as n,H as r,K as i,S as a,V as o,at as s,b as c,ct as l,nt as u,tt as d,w as f}from"../chunks/4TnsQ3FA.js";import"../chunks/BKyh3mbG.js";import{t as p}from"../chunks/Dt3Nh1aV.js";import{a as m,i as h,n as g,r as _,t as v}from"../chunks/CMsUrI0P.js";import{n as y,t as b}from"../chunks/BXmP-NPA.js";var x=l({load:()=>S}),S=async({parent:e})=>({backToList:`/reader`,title:(await e()).locale===`ko`?`꿈`:`Dream`}),C=f(`<p>노벨문학상 수상 작가 한강은 한국 현대사의 폭력과 인간 존엄의
+			취약성을 급진적인 명료함과 절제된 언어로 다루며 국제적인 주목을
+			받아왔다. 국가 폭력, 권위주의, 집단적 애도의 여파가 개인의 삶에
+			어떻게 스며드는지를 섬세하게 추적 해 온 그의 작업은 한국의 민주주의
+			및 주권에 대한 질문과 긴밀히 맞닿아 있으며, 신체와 기억, 양심을
+			정치적 역사가 살아지고 경합되는 장소로 드러낸다.</p>`),w=f(`<p>Novelist Han Kang, recipient of the 2024 Nobel Prize in Literature,
+			has been internationally recognized for a body of work that
+			confronts historical violence and the fragility of human dignity
+			with radical clarity and restraint. By tracing the intimate
+			reverberations of state violence, authoritarianism, and collective
+			grief, Han’s work has become inseparable from broader questions of
+			Korean democracy and sovereignty, foregrounding the body, memory,
+			and conscience as sites where political history is lived and
+			contested.</p>`);function T(r,s){u(s,!0);let l=i(()=>p.data),f=i(()=>e(l).locale);v(r,{name:r=>{var i=t(),s=o(i),l=e=>{a(e,n(`한강`))},u=e=>{a(e,n(`Han Kang`))};c(s,t=>{e(f)===`ko`?t(l):t(u,-1)}),a(r,i)},children:(n,r)=>{var i=t(),s=o(i),l=e=>{a(e,C())},u=e=>{a(e,w())};c(s,t=>{e(f)===`ko`?t(l):t(u,-1)}),a(n,i)},$$slots:{name:!0,default:!0}}),d()}var E=f(`–Selection from <em>We Do Not Part</em>`,1),D=f(`<h5>제목</h5> <p>문단</p>`,1),O=f(`<h5>TITLE</h5> <p>Paragraph</p>`,1),k=f(`<!> <!> <!> <!>`,1);function A(l,u){let d=i(()=>u.data.locale);m(l,{children:(i,l)=>{var u=k(),f=o(u);h(f,{category:`fellowship`,subtitle:r=>{var i=t(),l=o(i),u=e=>{a(e,n(`〈작별하지 않는다〉에서`))},f=e=>{var t=E();s(),a(e,t)};c(l,t=>{e(d)===`ko`?t(u):t(f,-1)}),a(r,i)},author:r=>{var i=t(),s=o(i),l=e=>{a(e,n(`한강`))},u=e=>{a(e,n(`Han Kang`))};c(s,t=>{e(d)===`ko`?t(l):t(u,-1)}),a(r,i)},$$slots:{subtitle:!0,author:!0}});var p=r(f,2);_(p,{children:(n,r)=>{var i=t(),l=o(i),u=e=>{var t=D();s(2),a(e,t)},f=e=>{var t=O();s(2),a(e,t)};c(l,t=>{e(d)===`ko`?t(u):t(f,-1)}),a(n,i)},$$slots:{default:!0}});var m=r(p,2);y(m,{children:(r,i)=>{var l=t(),u=o(l),f=e=>{b(e,{id:1,children:(e,t)=>{s(),a(e,n(`참조`))},$$slots:{default:!0}})},p=e=>{b(e,{id:1,children:(e,t)=>{s(),a(e,n(`Reference`))},$$slots:{default:!0}})};c(u,t=>{e(d)===`ko`?t(f):t(p,-1)}),a(r,l)},$$slots:{default:!0}}),g(r(m,2),{children:(e,t)=>{T(e,{})},$$slots:{default:!0}}),a(i,u)},$$slots:{default:!0}})}export{A as component,x as universal};
