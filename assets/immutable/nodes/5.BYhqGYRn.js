@@ -34,7 +34,7 @@ import{A as e,B as t,F as n,G as r,H as i,S as a,V as o,at as s,b as c,c as l,it
 						2022년 프로젝트 스페이스 사루비아 《진희》 참여 등이
 						있다. 2025년 하반기부터는 뉴욕대학교 티시 예술학교(New
 						York University Tisch School of the Arts)에서 협력예술
-						조교수로 재직하며 교육 활동을 병행하고 있다.</p> <p><a>노혜리와 펠로우 크리스티앙 니암페나가 〈베어링〉에
+						조교수로 재직하며 교육 활동을 병행하고 있다.</p> <p><a>노혜리와 펠로우 크리스티앙 니암페타가 〈베어링〉에
 							대해 나눈 대담</a></p>`,1),v=d(`<h5 class="svelte-1l3z0n5">Hyeree Ro</h5> <p>Hyeree Ro is an artist based in Brooklyn, New York and
 						Seoul, primarily working with hand-crafted sculptural
 						objects and structures, and multi-lingual fractured
