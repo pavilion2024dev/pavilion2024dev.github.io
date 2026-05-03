@@ -1,4 +1,4 @@
-import{A as e,B as t,C as n,E as r,H as i,K as a,S as o,V as s,at as c,b as l,ct as u,nt as d,ot as f,tt as p,w as m}from"../chunks/4TnsQ3FA.js";import"../chunks/BKyh3mbG.js";import{t as h}from"../chunks/Dj_prAbt.js";import{a as g,i as _,n as v,r as y,t as b}from"../chunks/DpiAkeCz.js";import{t as x}from"../chunks/BmNELZQp.js";import{n as S,r as C,t as w}from"../chunks/WLf8wMqH.js";var T=u({load:()=>E}),E=async({parent:e})=>({backToList:`/reader`,title:(await e()).locale===`ko`?`도대체 어떻게 이 나라를 사랑하지?`:`How can I ever possibly love this country?`}),D=m(`<p>최빛나 큐레이터는 한국에서 철학과 미학을 전공했으며, 지난 20년간
+import{A as e,B as t,C as n,E as r,H as i,K as a,S as o,V as s,at as c,b as l,ct as u,nt as d,ot as f,tt as p,w as m}from"../chunks/4TnsQ3FA.js";import"../chunks/BKyh3mbG.js";import{t as h}from"../chunks/2uRqvYeY.js";import{a as g,i as _,n as v,r as y,t as b}from"../chunks/CrPOLxBj.js";import{t as x}from"../chunks/iVI0Ol0d.js";import{n as S,r as C,t as w}from"../chunks/WLf8wMqH.js";var T=u({load:()=>E}),E=async({parent:e})=>({backToList:`/reader`,title:(await e()).locale===`ko`?`도대체 어떻게 이 나라를 사랑하지?`:`How can I ever possibly love this country?`}),D=m(`<p>최빛나 큐레이터는 한국에서 철학과 미학을 전공했으며, 지난 20년간
 			네덜란드와 유럽을 기반으로 활동하면서도 한국의 문화적·사회정치적
 			맥락과 긴밀한 연결을 이어왔다. 위트레흐트의 카스코 아트
 			인스티튜트(Casco Art Institute: Working for the Commons) 디렉터로서
@@ -351,7 +351,7 @@ import{A as e,B as t,C as n,E as r,H as i,K as a,S as o,V as s,at as c,b as l,ct
 				meant to do for its people? “Liberation Space,” or <em>Haebang Gonggan</em>, is likewise indeterminate in its
 				nature. Yet it is precisely this openness that allows it to hold
 				both conditions—fortress and nest—and, in doing so, to orient a
-				direction forward.</p>`,1),Ne=m(`Goeun Choi, Binna Choi, and Hyeree Ro celebrating the selection of <em>Liberation Space: Fortress/Nest</em> for the 2026 Korean Pavilion, May 6, 2025, Yongsan, Seoul. Photo courtesy
+				direction forward.</p>`,1),Ne=m(`Goen Choi, Binna Choi, and Hyeree Ro celebrating the selection of <em>Liberation Space: Fortress/Nest</em> for the 2026 Korean Pavilion, May 6, 2025, Yongsan, Seoul. Photo courtesy
 			of the Korean Pavilion 2026`,1),Pe=m(`<h5>베어링과 메르디앙</h5> <p><em>최고은과 노혜리, 두 작가는 한국관을 ‘해방공간’이라는 발상을
 					위한 기념비로 재편하고 전용하려는 시도의 중심축을 이룬다.
 					우선 큐레토리얼 방향성이 프로젝트의 토대를 마련하고 일정한
