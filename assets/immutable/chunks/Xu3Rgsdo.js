@@ -1,1 +1,0 @@
-import{n as e,r as t,t as n}from"./CLaJESWK.js";var r=r=>{switch(r){case`monument`:return t();case`fellowship`:return e();case`network`:return n()}};export{r as t};
