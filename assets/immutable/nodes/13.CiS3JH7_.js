@@ -1,4 +1,4 @@
-import{A as e,C as t,E as n,H as r,K as i,S as a,V as o,at as s,b as c,ct as l,nt as u,tt as d,w as f}from"../chunks/4TnsQ3FA.js";import"../chunks/BKyh3mbG.js";import{t as p}from"../chunks/DRiTAt5T.js";import{a as m,i as h,n as g,r as _,t as v}from"../chunks/B-jGbRwi.js";import{t as y}from"../chunks/OrUS1bhB.js";var b=l({load:()=>x}),x=async({parent:e})=>({backToList:`/reader`,title:(await e()).locale===`ko`?`꿈`:`Dream`}),S=f(`<p>노벨문학상 수상 작가 한강은 한국 현대사의 폭력과 인간 존엄의
+import{A as e,C as t,E as n,H as r,K as i,S as a,V as o,at as s,b as c,ct as l,nt as u,tt as d,w as f}from"../chunks/4TnsQ3FA.js";import"../chunks/BKyh3mbG.js";import{t as p}from"../chunks/BNdXqJps.js";import{a as m,i as h,n as g,r as _,t as v}from"../chunks/WlsTHhtY.js";import{t as y}from"../chunks/DOlMlzdO.js";var b=l({load:()=>x}),x=async({parent:e})=>({backToList:`/reader`,title:(await e()).locale===`ko`?`꿈`:`Dream`}),S=f(`<p>노벨문학상 수상 작가 한강은 한국 현대사의 폭력과 인간 존엄의
 			취약성을 급진적인 명료함과 절제된 언어로 다루며 국제적인 주목을
 			받아왔다. 국가 폭력, 권위주의, 집단적 애도의 여파가 개인의 삶에
 			어떻게 스며드는지를 섬세하게 추적 해 온 그의 작업은 한국의 민주주의
