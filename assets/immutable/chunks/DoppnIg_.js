@@ -1,0 +1,1 @@
+import"./CGTC2d_G.js";

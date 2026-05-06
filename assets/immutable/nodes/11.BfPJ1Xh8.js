@@ -1,4 +1,4 @@
-import{A as e,C as t,E as n,H as r,K as i,S as a,V as o,at as s,b as c,ct as l,nt as u,tt as d,w as f}from"../chunks/4TnsQ3FA.js";import"../chunks/BKyh3mbG.js";import{t as p}from"../chunks/D1PneJCw.js";import{a as m,i as h,n as g,r as _,t as v}from"../chunks/DwnWDq62.js";var y=l({load:()=>b}),b=async({parent:e})=>({backToList:`/reader`,title:(await e()).locale===`ko`?`미완의 국가를 위한 큐레토리얼 실천`:`A Curatorial Practice for an Unfinished Nation`}),x=f(`<p>광주비엔날레 아카데미에서 운영하는 전시기획자양성과정은 글로벌
+import{A as e,C as t,E as n,H as r,K as i,S as a,V as o,at as s,b as c,ct as l,nt as u,tt as d,w as f}from"../chunks/4TnsQ3FA.js";import"../chunks/BKyh3mbG.js";import{t as p}from"../chunks/B-U_CQVo.js";import{a as m,i as h,n as g,r as _,t as v}from"../chunks/DVvhmeQq.js";var y=l({load:()=>b}),b=async({parent:e})=>({backToList:`/reader`,title:(await e()).locale===`ko`?`미완의 국가를 위한 큐레토리얼 실천`:`A Curatorial Practice for an Unfinished Nation`}),x=f(`<p>광주비엔날레 아카데미에서 운영하는 전시기획자양성과정은 글로벌
 			미술계의 신진 큐레이터, 예술이론가, 문화기획자를 위한 집중형 현장
 			교육 프로그램이다. 최빛나가 지도교수를 맡은 2025년 에디션 ‘국가성과
 			큐레토리얼 실천에 대해’의 일환으로 본문에 수록된 큐레토리얼
